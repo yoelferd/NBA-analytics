@@ -1,0 +1,482 @@
+,,Data last updated:,,,2/15/2018 5:21 PM EDT,,,,Offensive Possessions Per Game,Expected Points Per Possession,Actual Points Per Possession,Change in Points Per Possession,Created Points Over Expectation,Expected Points per Game,Actual Points per Game,CPOE Rank,CPOE %ile,Total Defensive Points Over Expectation,Expected Points Against per Game,Actual Points Against per Game,DPOE Rank,tDPOE %ile,Expected Plus Minus per Game,Actual Plus Minus per Game,Points Over Expectation,Season POE,POE Percentile,
+Rank,POS,PLAYER,,,GP,Offensive Role,Rookie,Team,Poss/GM,ePPP,aPPP,ΔPPP,CPOE,eP/G,aP/G,Rank,%ile,tDPOE,ePA/G,aPA/G,Rank,%ile,ePM/G,aPM/G,POE,sPOE,%ile,
+1,PF,Anthony Davis,"Anthony Davis,New Orleans Pelicans",",",51,Versatile Bigs,No,New Orleans Pelicans,24.0,0.997,1.131,0.133,3.2,23.9,27.1,6,99%,-2.9,9.2,8.6,1,100%,14.7,18.5,6.1,309.2,99.8%,PF
+2,SG,Jimmy Butler,"Jimmy Butler,Minnesota Timberwolves",",",54,Creators,No,Minnesota Timberwolves,20.5,0.926,1.074,0.148,3.0,19.0,22.1,8,98%,-1.8,10.4,9.8,13,97%,8.7,12.2,4.8,260.6,99.6%,SG
+188,PF,DJ Wilson,"DJ Wilson,Milwaukee Bucks",",",0,Glue Guys,No,Milwaukee Bucks,Milwaukee Bucks,0.0,0.0,0.0,0.0,0.0,#DIV/0!,186,-,0.0,0.0,0.0,227,-,0.0,#DIV/0!,0.0,0.0,-,PF
+188,SF,Royce O'Neale,"Royce O'Neale,Utah Jazz",",",0,Glue Guys,No,Utah Jazz,Utah Jazz,0.0,0.0,0.0,0.0,0.0,#DIV/0!,186,-,0.0,0.0,0.0,227,-,0.0,#DIV/0!,0.0,0.0,-,SF
+3,PF,Giannis Antetokounmpo,"Giannis Antetokounmpo,Milwaukee Bucks",",",52,Point Forwards,No,Milwaukee Bucks,25.6,0.983,1.069,0.086,2.2,25.2,27.4,12,98%,-2.4,9.7,8.7,5,99%,15.5,18.7,4.6,237.0,99.4%,PF
+8,C,Karl-Anthony Towns,"Karl-Anthony Towns,Minnesota Timberwolves",",",60,Versatile Bigs,No,Minnesota Timberwolves,17.6,0.993,1.154,0.161,2.8,17.4,20.3,9,98%,-0.9,11.9,11.9,46,90%,5.5,8.4,3.8,225.5,98.3%,C
+4,SG,James Harden,"James Harden,Houston Rockets",",",50,Creators,No,Houston Rockets,29.0,0.894,1.064,0.170,4.9,25.9,30.8,1,100%,0.4,11.9,11.8,353,26%,14.0,19.0,4.5,223.7,99.2%,SG
+7,SG,Victor Oladipo,"Victor Oladipo,Indiana Pacers",",",52,Distributors,No,Indiana Pacers,23.4,0.935,1.034,0.099,2.3,21.9,24.2,11,98%,-1.6,11.3,10.6,18,96%,10.6,13.6,4.0,205.7,98.5%,SG
+5,PG,Stephen Curry,"Stephen Curry,Golden State Warriors",",",43,Secondary Creators,No,Golden State Warriors,22.7,0.946,1.147,0.201,4.6,21.5,26.1,2,100%,0.2,10.2,9.7,293,39%,11.3,16.4,4.3,186.3,99.0%,PG
+9,PF,Kevin Durant,"Kevin Durant,Golden State Warriors",",",50,Point Forwards,No,Golden State Warriors,23.0,0.963,1.118,0.156,3.6,22.1,25.7,3,99%,0.3,9.3,9.4,320,33%,12.8,16.3,3.3,163.5,98.1%,PF
+6,PG,Chris Paul,"Chris Paul,Houston Rockets",",",39,Creators,No,Houston Rockets,17.7,0.889,1.065,0.176,3.1,15.7,18.8,7,99%,-0.9,9.4,9.5,49,90%,6.3,9.3,4.0,157.5,98.8%,PG
+10,PG,Damian Lillard,"Damian Lillard,Portland Trail Blazers",",",51,Rock Pounders,No,Portland Trail Blazers,24.5,0.899,1.044,0.145,3.6,22.1,25.6,4,99%,0.6,11.2,11.4,376,22%,10.8,14.2,3.0,152.3,97.9%,PG
+13,C,Al Horford,"Al Horford,Boston Celtics",",",54,Versatile Bigs,No,Boston Celtics,13.2,0.972,0.996,0.024,0.3,12.9,13.2,121,75%,-2.4,13.0,12.1,4,99%,-0.1,1.1,2.7,148.1,97.3%,C
+12,C,DeAndre Jordan,"DeAndre Jordan,Los Angeles Clippers",",",51,Unskilled Bigs,No,Los Angeles Clippers,10.7,1.020,1.097,0.078,0.8,10.9,11.7,63,87%,-2.0,11.9,11.6,7,99%,-1.1,0.1,2.8,144.3,97.5%,C
+14,PG,Kyrie Irving,"Kyrie Irving,Boston Celtics",",",53,Secondary Creators,No,Boston Celtics,22.5,0.928,1.079,0.151,3.4,20.9,24.3,5,99%,0.7,9.8,9.7,410,15%,11.1,14.6,2.7,142.3,97.1%,PG
+15,C,Clint Capela,"Clint Capela,Houston Rockets",",",52,Parasitic Bigs,No,Houston Rockets,12.4,1.075,1.164,0.089,1.1,13.4,14.5,45,91%,-1.5,11.7,11.4,21,96%,1.6,3.1,2.6,135.9,96.9%,C
+20,F,Jayson Tatum,"Jayson Tatum,Boston Celtics",",",59,Glue Guys,Yes,Boston Celtics,12.8,0.981,1.054,0.073,0.9,12.6,13.5,54,89%,-1.2,7.8,7.3,35,93%,4.8,6.2,2.1,125.8,95.8%,F
+18,SG,Gary Harris,"Gary Harris,Denver Nuggets",",",53,Glue Guys,No,Denver Nuggets,16.3,0.971,1.058,0.087,1.4,15.8,17.2,31,94%,-0.9,9.6,8.8,51,89%,6.2,8.4,2.3,123.2,96.3%,SG
+16,C,Joel Embiid,"Joel Embiid,Philadelphia 76ers",",",44,Versatile Bigs,No,Philadelphia 76ers,24.4,0.944,0.970,0.026,0.6,23.0,23.6,78,84%,-1.9,15.0,14.0,9,98%,8.0,9.6,2.6,113.8,96.7%,C
+21,PG,Kemba Walker,"Kemba Walker,Charlotte Hornets",",",55,Rock Pounders,No,Charlotte Hornets,22.3,0.909,1.007,0.097,2.2,20.3,22.5,15,97%,0.1,12.9,13.1,272,43%,7.4,9.4,2.1,112.9,95.6%,PG
+23,SG,Klay Thompson,"Klay Thompson,Golden State Warriors",",",57,Off-Ball Workers,No,Golden State Warriors,18.2,0.994,1.100,0.106,1.9,18.1,20.0,18,96%,0.0,10.4,10.4,219,54%,7.6,9.6,1.9,110.9,95.2%,SG
+25,PF,LeBron James,"LeBron James,Cleveland Cavaliers",",",56,Point Forwards,No,Cleveland Cavaliers,25.5,0.930,1.036,0.105,2.7,23.7,26.4,10,98%,0.7,9.3,9.7,414,14%,14.4,16.7,1.9,108.7,94.8%,PF
+26,PG,Kyle Lowry,"Kyle Lowry,Toronto Raptors",",",54,Secondary Creators,No,Toronto Raptors,16.4,0.943,1.006,0.063,1.0,15.4,16.4,50,90%,-0.9,10.0,9.5,52,89%,5.4,7.0,1.9,104.6,94.6%,PG
+32,SF,Jrue Holiday,"Jrue Holiday,New Orleans Pelicans",",",57,Secondary Creators,No,New Orleans Pelicans,18.7,0.950,0.989,0.039,0.7,17.7,18.5,72,85%,-1.1,14.8,14.3,40,92%,3.0,4.2,1.8,103.4,93.3%,SF
+34,SG,DeMar DeRozan,"DeMar DeRozan,Toronto Raptors",",",57,Creators,No,Toronto Raptors,23.2,0.906,0.995,0.090,2.1,21.0,23.1,16,97%,0.3,7.3,6.8,308,36%,13.7,16.2,1.8,102.4,92.9%,SG
+27,SF,Otto Porter Jr.,"Otto Porter Jr.,Washington Wizards",",",53,Reluctant Shooters,No,Washington Wizards,13.2,0.994,1.096,0.102,1.3,13.1,14.4,34,93%,-0.6,8.2,9.0,94,80%,4.9,5.4,1.9,100.2,94.4%,SF
+38,PF,Dwight Powell,"Dwight Powell,Dallas Mavericks",",",57,Parasitic Bigs,No,Dallas Mavericks,6.7,1.065,1.181,0.116,0.8,7.1,7.9,67,86%,-1.0,8.4,7.5,43,91%,-1.3,0.4,1.8,99.9,92.1%,PF
+31,PF,Anthony Tolliver,"Anthony Tolliver,Detroit Pistons",",",54,Stretch Bigs,No,Detroit Pistons,7.1,1.000,1.150,0.150,1.1,7.1,8.1,47,90%,-0.8,7.0,6.1,67,86%,0.0,2.0,1.8,98.3,93.5%,PF
+37,SF,Paul George,"Paul George,Oklahoma City Thunder",",",56,Secondary Creators,No,Oklahoma City Thunder,21.8,0.950,1.025,0.074,1.6,20.7,22.3,21,96%,-0.1,10.5,10.8,186,61%,10.2,11.5,1.8,98.1,92.3%,SF
+35,C,Steven Adams,"Steven Adams,Oklahoma City Thunder",",",54,Unskilled Bigs,No,Oklahoma City Thunder,12.6,1.060,1.102,0.041,0.5,13.3,13.9,93,81%,-1.3,12.9,12.1,29,94%,0.5,1.8,1.8,96.1,92.7%,C
+11,C,Rudy Gobert,"Rudy Gobert,Utah Jazz",",",32,Unskilled Bigs,No,Utah Jazz,11.7,1.048,1.064,0.016,0.2,12.3,12.5,146,70%,-2.7,15.9,15.3,2,100%,-3.6,-2.8,2.9,93.2,97.7%,C
+40,C,LaMarcus Aldridge,"LaMarcus Aldridge,San Antonio Spurs",",",54,Post-Up Bigs,No,San Antonio Spurs,21.2,0.973,1.040,0.067,1.4,20.7,22.1,29,94%,-0.3,14.0,13.6,138,71%,6.6,8.5,1.7,92.7,91.7%,C
+36,PF,Trey Lyles,"Trey Lyles,Denver Nuggets",",",52,Pick and Pop Bigs,No,Denver Nuggets,10.0,0.992,1.104,0.112,1.1,9.9,11.0,43,91%,-0.7,6.0,5.6,82,83%,3.9,5.4,1.8,92.0,92.5%,PF
+43,SG,Kyle Korver,"Kyle Korver,Cleveland Cavaliers",",",56,Off-Ball Workers,No,Cleveland Cavaliers,7.7,0.975,1.169,0.194,1.5,7.5,9.0,26,95%,-0.1,6.5,6.3,182,62%,1.0,2.8,1.6,91.7,91.0%,SG
+33,C,Montrezl Harrell,"Montrezl Harrell,Los Angeles Clippers",",",50,Post-Up Bigs,No,Los Angeles Clippers,7.8,1.030,1.161,0.131,1.0,8.1,9.1,49,90%,-0.8,5.6,5.8,65,86%,2.4,3.3,1.8,90.3,93.1%,C
+29,C,Kevin Love,"Kevin Love,Cleveland Cavaliers",",",48,Versatile Bigs,No,Cleveland Cavaliers,16.0,0.993,1.099,0.106,1.7,15.9,17.6,19,96%,-0.1,9.8,10.4,185,61%,6.1,7.2,1.8,88.0,94.0%,C
+30,SG,Tyreke Evans,"Tyreke Evans,Memphis Grizzlies",",",48,Creators,No,Memphis Grizzlies,19.4,0.924,0.992,0.068,1.3,17.9,19.3,35,93%,-0.5,7.4,6.7,103,79%,10.5,12.5,1.8,87.6,93.8%,SG
+19,C,Hassan Whiteside,"Hassan Whiteside,Miami Heat",",",39,Post-Up Bigs,No,Miami Heat,13.7,1.009,1.032,0.023,0.3,13.8,14.1,120,75%,-1.9,11.4,11.6,11,98%,2.4,2.5,2.2,85.9,96.0%,C
+48,SG,Bradley Beal,"Bradley Beal,Washington Wizards",",",57,Secondary Creators,No,Washington Wizards,22.9,0.938,1.006,0.068,1.6,21.5,23.1,22,95%,0.1,10.2,10.2,258,46%,11.3,12.9,1.5,85.3,90.0%,SG
+51,C,Jakob Poeltl,"Jakob Poeltl,Toronto Raptors",",",57,Unskilled Bigs,No,Toronto Raptors,6.2,1.076,1.111,0.035,0.2,6.6,6.8,142,70%,-1.2,7.8,7.8,31,94%,-1.1,-1.0,1.5,82.7,89.4%,C
+53,PF,Davis Bertans,"Davis Bertans,San Antonio Spurs",",",55,Stretch Bigs,No,San Antonio Spurs,5.8,1.004,1.090,0.086,0.5,5.9,6.4,95,80%,-0.9,4.9,4.0,47,90%,1.0,2.4,1.4,78.8,89.0%,PF
+44,PF,Kristaps Porzingis,"Kristaps Porzingis,New York Knicks",",",49,Versatile Bigs,No,New York Knicks,22.5,0.969,0.981,0.012,0.3,21.8,22.1,131,73%,-1.3,12.1,12.2,25,95%,9.7,9.9,1.6,78.4,90.8%,PF
+47,PG,Darren Collison,"Darren Collison,Indiana Pacers",",",52,Distributors,No,Indiana Pacers,11.7,0.946,1.077,0.132,1.5,11.1,12.6,25,95%,0.0,9.3,9.1,247,49%,1.8,3.5,1.5,78.3,90.2%,PG
+49,PF,Marvin Williams,"Marvin Williams,Charlotte Hornets",",",53,Stretch Bigs,No,Charlotte Hornets,8.4,1.022,1.124,0.102,0.9,8.5,9.4,61,87%,-0.6,8.6,7.7,87,82%,0.0,1.7,1.5,77.7,89.8%,PF
+54,C,David West,"David West,Golden State Warriors",",",54,Versatile Bigs,No,Golden State Warriors,6.6,1.002,1.079,0.076,0.5,6.6,7.1,94,80%,-0.9,6.5,6.7,48,90%,0.2,0.4,1.4,77.3,88.8%,C
+62,PF,Joe Ingles,"Joe Ingles,Utah Jazz",",",58,Glue Guys,No,Utah Jazz,10.4,0.955,1.043,0.088,0.9,10.0,10.9,57,88%,-0.4,9.4,9.3,128,73%,0.5,1.6,1.3,73.7,87.1%,PF
+60,SG,Jeremy Lamb,"Jeremy Lamb,Charlotte Hornets",",",56,Distributors,No,Charlotte Hornets,13.4,0.940,0.997,0.057,0.8,12.6,13.3,68,86%,-0.5,8.4,7.6,97,80%,4.1,5.8,1.3,73.1,87.5%,SG
+55,SF,Kyle Anderson,"Kyle Anderson,San Antonio Spurs",",",51,Reluctant Shooters,No,San Antonio Spurs,8.6,0.979,0.948,-0.032,-0.3,8.4,8.2,261,46%,-1.7,7.6,6.8,17,96%,0.8,1.3,1.4,72.6,88.5%,SF
+64,SF,Josh Richardson,"Josh Richardson,Miami Heat",",",58,Glue Guys,No,Miami Heat,13.7,0.946,0.970,0.024,0.3,12.9,13.2,118,75%,-0.9,11.1,10.6,56,88%,1.8,2.6,1.2,70.1,86.7%,SF
+50,C,DeMarcus Cousins,"DeMarcus Cousins,New Orleans Pelicans",",",48,Versatile Bigs,No,New Orleans Pelicans,26.6,0.956,0.939,-0.018,-0.5,25.4,25.0,312,35%,-1.9,15.4,15.0,10,98%,10.1,10.0,1.5,69.9,89.6%,C
+41,SG,Andre Roberson,"Andre Roberson,Oklahoma City Thunder",",",39,Bigs-with-Touch,No,Oklahoma City Thunder,5.4,1.067,0.928,-0.139,-0.7,5.7,5.0,378,21%,-2.4,9.5,8.5,3,99%,-3.8,-3.5,1.7,66.5,91.5%,SG
+68,PF,Darius Miller,"Darius Miller,New Orleans Pelicans",",",57,Spot-Up Wings,No,New Orleans Pelicans,6.9,0.971,1.173,0.201,1.4,6.7,8.1,33,93%,0.3,6.3,5.9,300,38%,0.4,2.2,1.1,64.4,85.8%,PF
+72,C,Aron Baynes,"Aron Baynes,Boston Celtics",",",59,Roll-and-Cut Bigs,No,Boston Celtics,6.7,1.017,0.841,-0.175,-1.2,6.8,5.7,440,8%,-2.3,7.5,6.8,6,99%,-0.7,-1.1,1.1,63.3,85.0%,C
+66,PF,Serge Ibaka,"Serge Ibaka,Toronto Raptors",",",52,Pick and Pop Bigs,No,Toronto Raptors,12.1,1.024,1.052,0.028,0.3,12.4,12.8,114,76%,-0.8,8.4,8.7,60,88%,4.1,4.1,1.2,61.7,86.3%,PF
+70,PG,Lou Williams,"Lou Williams,Los Angeles Clippers",",",55,Distributors,No,Los Angeles Clippers,22.3,0.920,1.018,0.098,2.2,20.6,22.7,14,97%,1.1,8.1,7.0,451,6%,12.5,15.7,1.1,61.6,85.4%,PG
+46,PF,Luc Mbah a Moute,"Luc Mbah a Moute,Houston Rockets",",",40,Stretch Bigs,No,Houston Rockets,7.7,1.006,0.977,-0.029,-0.2,7.7,7.5,247,49%,-1.8,8.5,8.2,15,97%,-0.8,-0.7,1.5,61.3,90.4%,PF
+58,SG,Delon Wright,"Delon Wright,Toronto Raptors",",",45,Distributors,No,Toronto Raptors,8.4,0.947,1.003,0.055,0.5,8.0,8.4,103,79%,-0.9,6.3,5.3,55,89%,1.6,3.2,1.4,61.2,87.9%,SG
+67,C,John Henson,"John Henson,Milwaukee Bucks",",",52,Roll-and-Cut Bigs,No,Milwaukee Bucks,8.6,1.069,1.031,-0.037,-0.3,9.2,8.9,272,43%,-1.5,10.2,10.2,22,95%,-1.0,-1.3,1.2,60.4,86.0%,C
+77,PG,Tyus Jones,"Tyus Jones,Minnesota Timberwolves",",",60,Glue Guys,No,Minnesota Timberwolves,5.0,0.952,0.974,0.022,0.1,4.8,4.9,161,66%,-0.9,6.0,5.7,57,88%,-1.2,-0.8,1.0,58.2,84.0%,PG
+52,C,Dewayne Dedmon,"Dewayne Dedmon,Atlanta Hawks",",",40,Bigs-with-Touch,No,Atlanta Hawks,9.2,1.025,1.092,0.068,0.6,9.5,10.1,81,83%,-0.8,9.2,8.6,62,87%,0.3,1.5,1.4,57.9,89.2%,C
+57,C,Myles Turner,"Myles Turner,Indiana Pacers",",",42,Parasitic Bigs,No,Indiana Pacers,13.3,1.013,1.014,0.001,0.0,13.5,13.5,183,62%,-1.4,10.3,10.2,23,95%,3.2,3.3,1.4,57.9,88.1%,C
+69,C,Salah Mejri,"Salah Mejri,Dallas Mavericks",",",51,Unskilled Bigs,No,Dallas Mavericks,3.5,1.016,1.080,0.064,0.2,3.5,3.7,140,71%,-0.9,5.6,5.7,54,89%,-2.1,-2.0,1.1,57.3,85.6%,C
+65,SF,CJ Miles,"CJ Miles,Toronto Raptors",",",47,Spot-Up Wings,No,Toronto Raptors,9.3,0.986,1.094,0.108,1.0,9.1,10.1,51,89%,-0.2,4.3,3.7,167,65%,4.9,6.5,1.2,55.8,86.5%,SF
+71,PG,Eric Gordon,"Eric Gordon,Houston Rockets",",",51,Secondary Creators,No,Houston Rockets,18.1,0.953,1.016,0.063,1.1,17.2,18.4,42,91%,0.1,6.5,5.6,254,47%,10.7,12.7,1.1,55.5,85.2%,PG
+82,C,Kyle O'Quinn,"Kyle O'Quinn,New York Knicks",",",57,Bigs-with-Touch,No,New York Knicks,6.6,0.991,0.995,0.004,0.0,6.5,6.6,177,63%,-0.9,7.1,6.8,53,89%,-0.6,-0.3,0.9,53.1,82.9%,C
+42,F,Nikola Mirotic,"Nikola Mirotic,New Orleans Pelicans",",",31,Versatile Bigs,No,New Orleans Pelicans,15.1,0.978,1.081,0.103,1.6,14.8,16.4,23,95%,-0.1,3.8,3.8,183,62%,11.0,12.5,1.7,52.5,91.3%,F
+80,C,Derrick Favors,"Derrick Favors,Utah Jazz",",",55,Parasitic Bigs,No,Utah Jazz,11.9,1.075,1.044,-0.031,-0.4,12.8,12.4,283,41%,-1.3,10.1,10.0,28,94%,2.7,2.4,0.9,51.6,83.3%,C
+74,C,Ekpe Udoh,"Ekpe Udoh,Utah Jazz",",",49,Unskilled Bigs,No,Utah Jazz,3.0,1.062,1.083,0.020,0.1,3.1,3.2,171,64%,-1.0,6.5,6.2,44,91%,-3.4,-3.0,1.0,50.4,84.6%,C
+83,PG,Fred VanVleet,"Fred VanVleet,Toronto Raptors",",",54,Distributors,No,Toronto Raptors,8.1,0.943,0.995,0.053,0.4,7.6,8.1,104,78%,-0.5,6.7,6.6,104,78%,1.0,1.5,0.9,49.9,82.7%,PG
+75,SG,JJ Redick,"JJ Redick,Philadelphia 76ers",",",44,Off-Ball Workers,No,Philadelphia 76ers,15.3,0.966,1.076,0.110,1.7,14.7,16.4,20,96%,0.7,7.9,7.8,404,16%,6.8,8.6,1.0,44.6,84.4%,SG
+76,SF,Reggie Bullock,"Reggie Bullock,Detroit Pistons",",",42,Spot-Up Wings,No,Detroit Pistons,8.1,1.010,1.184,0.174,1.4,8.2,9.6,30,94%,0.4,8.1,8.0,343,29%,0.1,1.7,1.0,42.5,84.2%,SF
+90,PG,Ben Simmons,"Ben Simmons,Philadelphia 76ers",",",54,Creators,Yes,Philadelphia 76ers,18.9,0.918,0.869,-0.049,-0.9,17.3,16.4,411,14%,-1.7,12.1,11.1,16,97%,5.2,5.3,0.8,42.1,81.3%,PG
+79,PF,Larry Nance,"Larry Nance,Cleveland Cavaliers",",",42,Roll-and-Cut Bigs,No,Cleveland Cavaliers,7.9,1.042,1.072,0.030,0.2,8.3,8.5,134,72%,-0.7,8.4,8.4,74,85%,-0.1,0.1,1.0,40.0,83.5%,PF
+84,SF,Trevor Ariza,"Trevor Ariza,Houston Rockets",",",44,Spot-Up Wings,No,Houston Rockets,11.0,0.998,1.083,0.085,0.9,10.9,11.9,55,89%,0.0,8.8,8.8,244,49%,2.1,3.0,0.9,39.4,82.5%,SF
+95,SF,OG Anunoby,"OG Anunoby,Toronto Raptors",",",57,Stretch Bigs,Yes,Toronto Raptors,5.9,1.022,1.012,-0.010,-0.1,6.0,5.9,210,56%,-0.7,6.9,6.5,68,86%,-0.9,-0.5,0.7,39.3,80.2%,SF
+88,SG,Tomas Satoransky,"Tomas Satoransky,Washington Wizards",",",48,Glue Guys,No,Washington Wizards,5.8,0.953,1.047,0.094,0.5,5.5,6.0,91,81%,-0.3,5.9,6.0,144,70%,-0.4,0.0,0.8,39.1,81.7%,SG
+94,SG,Donovan Mitchell,"Donovan Mitchell,Utah Jazz",",",55,Distributors,No,Utah Jazz,20.5,0.928,0.945,0.017,0.3,19.1,19.4,113,76%,-0.4,10.2,9.5,129,73%,8.9,9.9,0.7,38.4,80.4%,SG
+86,SF,Omri Casspi,"Omri Casspi,Golden State Warriors",",",45,Bigs-with-Touch,No,Golden State Warriors,5.4,1.030,1.106,0.076,0.4,5.6,6.0,106,78%,-0.4,4.3,4.2,115,76%,1.3,1.8,0.8,37.3,82.1%,SF
+96,PF,Tobias Harris,"Tobias Harris,Los Angeles Clippers",",",54,Glue Guys,No,Los Angeles Clippers,17.1,0.968,1.044,0.076,1.3,16.5,17.8,36,93%,0.6,5.8,5.9,391,19%,10.8,11.9,0.7,36.9,80.0%,PF
+93,PG,Shabazz Napier,"Shabazz Napier,Portland Trail Blazers",",",51,Distributors,No,Portland Trail Blazers,9.4,0.922,0.990,0.068,0.6,8.7,9.3,80,83%,-0.1,7.9,8.0,201,58%,0.8,1.3,0.7,36.3,80.6%,PG
+92,SG,Danny Green,"Danny Green,San Antonio Spurs",",",48,Spot-Up Wings,No,San Antonio Spurs,9.4,0.977,0.918,-0.059,-0.6,9.2,8.6,332,31%,-1.3,8.8,8.1,27,94%,0.4,0.5,0.8,36.1,80.8%,SG
+99,PG,Terry Rozier III,"Terry Rozier III,Boston Celtics",",",59,Secondary Creators,No,Boston Celtics,10.7,0.940,0.954,0.013,0.1,10.0,10.2,152,68%,-0.5,8.5,8.1,108,78%,1.6,2.1,0.6,35.9,79.4%,PG
+73,C,Nikola Vucevic,"Nikola Vucevic,Orlando Magic",",",34,Versatile Bigs,No,Orlando Magic,17.4,1.014,0.981,-0.033,-0.6,17.6,17.1,341,29%,-1.6,13.7,13.4,19,96%,4.0,3.6,1.0,35.1,84.8%,C
+22,SF,Danilo Gallinari,"Danilo Gallinari,Los Angeles Clippers",",",18,Glue Guys,No,Los Angeles Clippers,15.5,0.978,1.018,0.039,0.6,15.2,15.8,84,83%,-1.3,9.3,8.3,24,95%,5.9,7.5,2.0,35.2,95.4%,SF
+97,SF,Robert Covington,"Robert Covington,Philadelphia 76ers",",",53,Spot-Up Wings,No,Philadelphia 76ers,13.3,0.992,0.959,-0.033,-0.4,13.2,12.8,304,37%,-1.1,11.1,11.3,38,92%,2.1,1.5,0.7,35.0,79.8%,SF
+103,PF,Taj Gibson,"Taj Gibson,Minnesota Timberwolves",",",60,Roll-and-Cut Bigs,No,Minnesota Timberwolves,11.1,1.051,1.094,0.043,0.5,11.6,12.1,101,79%,-0.1,11.7,11.4,191,60%,-0.1,0.7,0.6,34.5,78.5%,PF
+63,C,Dakari Johnson,"Dakari Johnson,Oklahoma City Thunder",",",26,Roll-and-Cut Bigs,Yes,Oklahoma City Thunder,1.9,1.041,1.040,-0.001,0.0,2.0,2.0,192,60%,-1.2,2.0,1.2,30,94%,0.0,0.8,1.2,32.1,86.9%,C
+113,C,Ed Davis,"Ed Davis,Portland Trail Blazers",",",58,Unskilled Bigs,No,Portland Trail Blazers,5.4,1.058,1.022,-0.035,-0.2,5.7,5.6,237,51%,-0.7,8.1,8.0,73,85%,-2.3,-2.4,0.5,30.3,76.5%,C
+91,C,Deyonta Davis,"Deyonta Davis,Memphis Grizzlies",",",39,Parasitic Bigs,No,Memphis Grizzlies,4.5,1.068,1.131,0.062,0.3,4.8,5.1,128,73%,-0.5,4.6,4.5,106,78%,0.2,0.6,0.8,29.8,81.0%,C
+111,C,John Collins,"John Collins,Atlanta Hawks",",",53,Unskilled Bigs,Yes,Atlanta Hawks,9.5,1.052,1.067,0.015,0.1,10.0,10.2,151,69%,-0.4,9.0,9.0,118,75%,1.0,1.2,0.5,28.9,76.9%,C
+104,SF,Andre Iguodala,"Andre Iguodala,Golden State Warriors",",",49,Reluctant Shooters,No,Golden State Warriors,6.4,0.996,0.847,-0.149,-1.0,6.4,5.4,418,13%,-1.5,7.2,6.0,20,96%,-0.8,-0.6,0.6,28.0,78.3%,SF
+107,PG,DJ Augustin,"DJ Augustin,Orlando Magic",",",50,Distributors,No,Orlando Magic,8.8,0.925,0.998,0.072,0.6,8.2,8.8,79,84%,0.1,6.7,6.5,266,45%,1.5,2.3,0.6,27.7,77.7%,PG
+116,SG,CJ McCollum,"CJ McCollum,Portland Trail Blazers",",",57,Creators,No,Portland Trail Blazers,21.6,0.929,1.001,0.072,1.6,20.1,21.6,24,95%,1.1,10.6,10.6,452,6%,9.5,11.0,0.5,27.7,75.8%,SG
+105,C,Zaza Pachulia,"Zaza Pachulia,Golden State Warriors",",",48,Roll-and-Cut Bigs,No,Golden State Warriors,5.8,1.053,1.004,-0.049,-0.3,6.1,5.8,265,45%,-0.9,7.2,7.0,59,88%,-1.1,-1.2,0.6,27.1,78.1%,C
+61,SG,Gerald Green,"Gerald Green,Houston Rockets",",",21,Spot-Up Wings,No,Houston Rockets,11.7,0.971,1.098,0.127,1.5,11.3,12.8,27,94%,0.2,6.9,6.7,288,40%,4.5,6.1,1.3,26.9,87.3%,SG
+109,PG,Eric Bledsoe,"Eric Bledsoe,Milwaukee Bucks",",",48,Distributors,No,Milwaukee Bucks,18.4,0.933,0.922,-0.011,-0.2,17.2,17.0,238,50%,-0.7,8.1,7.1,69,86%,9.1,9.9,0.5,26.4,77.3%,PG
+101,C,Tyson Chandler,"Tyson Chandler,Phoenix Suns",",",42,Unskilled Bigs,No,Phoenix Suns,6.4,1.016,1.007,-0.009,-0.1,6.5,6.5,209,56%,-0.7,12.0,11.2,81,83%,-5.4,-4.7,0.6,25.3,79.0%,C
+123,C,Kelly Olynyk,"Kelly Olynyk,Miami Heat",",",54,Pick and Pop Bigs,No,Miami Heat,11.1,0.970,0.992,0.021,0.2,10.7,11.0,136,72%,-0.2,10.1,10.4,161,66%,0.6,0.6,0.4,24.0,74.4%,C
+45,PF,Jamil Wilson,"Jamil Wilson,Los Angeles Clippers",",",15,Stretch Bigs,No,Los Angeles Clippers,6.1,1.001,1.154,0.152,0.9,6.1,7.0,56,88%,-0.7,6.3,5.9,79,84%,-0.2,1.1,1.6,23.9,90.6%,PF
+102,C,Nene Hilario,"Nene Hilario,Houston Rockets",",",39,Parasitic Bigs,No,Houston Rockets,6.5,1.045,1.079,0.034,0.2,6.8,7.0,138,71%,-0.4,6.9,7.1,125,74%,-0.1,-0.2,0.6,22.6,78.8%,C
+100,PF,Luke Babbitt,"Luke Babbitt,Miami Heat",",",37,Stretch Bigs,No,Miami Heat,5.3,0.991,1.153,0.162,0.9,5.2,6.1,59,88%,0.3,5.2,5.2,299,38%,0.1,0.9,0.6,22.4,79.2%,PF
+108,PG,Jose Calderon,"Jose Calderon,Cleveland Cavaliers",",",39,Distributors,No,Cleveland Cavaliers,3.7,0.937,1.041,0.104,0.4,3.5,3.9,109,77%,-0.2,4.8,4.6,173,64%,-1.3,-0.7,0.6,21.6,77.5%,PG
+110,C,Willie Reed,"Willie Reed,",",",39,Roll-and-Cut Bigs,No,,4.2,1.053,1.182,0.129,0.5,4.5,5.0,90,81%,0.0,4.3,4.3,227,53%,0.2,0.7,0.5,21.3,77.1%,C
+128,C,Jonas Valanciunas,"Jonas Valanciunas,Toronto Raptors",",",53,Roll-and-Cut Bigs,No,Toronto Raptors,11.0,1.036,1.096,0.060,0.7,11.4,12.1,77,84%,0.3,11.0,10.9,303,37%,0.4,1.2,0.4,20.7,73.3%,C
+121,SG,Langston Galloway,"Langston Galloway,Detroit Pistons",",",46,Off-Ball Workers,No,Detroit Pistons,6.4,0.956,0.990,0.034,0.2,6.1,6.3,141,71%,-0.2,4.2,4.1,155,68%,1.9,2.3,0.4,20.6,74.8%,SG
+122,C,Channing Frye,"Channing Frye,Los Angeles Lakers",",",44,Pick and Pop Bigs,No,Los Angeles Lakers,4.4,1.011,1.098,0.087,0.4,4.4,4.8,110,77%,-0.1,4.4,4.5,206,57%,0.1,0.4,0.4,19.6,74.6%,C
+133,C,Julius Randle,"Julius Randle,Los Angeles Lakers",",",56,Versatile Bigs,No,Los Angeles Lakers,14.4,0.991,1.000,0.009,0.1,14.3,14.4,156,68%,-0.2,9.7,9.4,158,67%,4.6,5.1,0.3,19.6,72.3%,C
+138,PF,Jerami Grant,"Jerami Grant,Oklahoma City Thunder",",",58,Pick and Pop Bigs,No,Oklahoma City Thunder,7.6,1.034,1.036,0.003,0.0,7.8,7.9,179,63%,-0.3,6.7,6.1,136,72%,1.1,1.8,0.3,19.4,71.3%,PF
+136,SG,Wayne Ellington,"Wayne Ellington,Miami Heat",",",57,Off-Ball Workers,No,Miami Heat,10.0,0.961,1.091,0.130,1.3,9.6,10.9,37,92%,1.0,6.8,7.2,440,8%,2.8,3.7,0.3,19.3,71.7%,SG
+120,C,JaVale McGee,"JaVale McGee,Golden State Warriors",",",42,Roll-and-Cut Bigs,No,Golden State Warriors,3.5,1.063,1.169,0.106,0.4,3.7,4.1,112,77%,-0.1,4.3,4.1,199,59%,-0.6,0.0,0.5,19.2,75.0%,C
+137,C,Dwight Howard,"Dwight Howard,Charlotte Hornets",",",57,Post-Up Bigs,No,Charlotte Hornets,16.9,0.961,0.935,-0.026,-0.4,16.2,15.8,307,36%,-0.8,11.8,11.7,64,87%,4.4,4.0,0.3,19.1,71.5%,C
+59,PG,Trey Burke,"Trey Burke,New York Knicks",",",13,Rock Pounders,No,New York Knicks,6.8,0.880,1.090,0.210,1.4,6.0,7.5,28,94%,0.1,4.1,4.2,263,45%,2.0,3.2,1.4,17.7,87.7%,PG
+135,C,Amir Johnson,"Amir Johnson,Philadelphia 76ers",",",52,Roll-and-Cut Bigs,No,Philadelphia 76ers,4.8,1.020,0.952,-0.068,-0.3,4.9,4.6,275,43%,-0.7,6.6,6.5,77,84%,-1.7,-1.9,0.3,17.7,71.9%,C
+141,C,Dirk Nowitzki,"Dirk Nowitzki,Dallas Mavericks",",",57,Pick and Pop Bigs,No,Dallas Mavericks,11.1,0.987,1.093,0.106,1.2,11.0,12.2,41,91%,0.9,10.6,10.5,428,11%,0.4,1.6,0.3,17.8,70.6%,C
+139,SG,Nick Young,"Nick Young,Golden State Warriors",",",56,Off-Ball Workers,No,Golden State Warriors,6.0,0.983,1.104,0.121,0.7,5.9,6.6,73,85%,0.4,4.6,4.5,345,28%,1.3,2.1,0.3,17.6,71.0%,SG
+119,C,Jordan Bell,"Jordan Bell,Golden State Warriors",",",38,Unskilled Bigs,Yes,Golden State Warriors,4.8,1.064,1.066,0.002,0.0,5.1,5.1,184,62%,-0.5,6.4,6.7,111,77%,-1.3,-1.6,0.5,17.6,75.2%,C
+143,C,Daniel Theis,"Daniel Theis,Boston Celtics",",",57,Bigs-with-Touch,Yes,Boston Celtics,5.1,1.018,0.986,-0.032,-0.2,5.1,5.0,230,52%,-0.5,5.6,5.8,109,77%,-0.4,-0.8,0.3,17.4,70.2%,C
+134,C,Bam Adebayo,"Bam Adebayo,Miami Heat",",",49,Roll-and-Cut Bigs,Yes,Miami Heat,7.0,1.037,1.035,-0.001,0.0,7.2,7.2,195,59%,-0.4,8.7,8.8,127,74%,-1.4,-1.6,0.3,17.0,72.1%,C
+98,SG,Damyean Dotson,"Damyean Dotson,New York Knicks",",",26,Glue Guys,Yes,New York Knicks,2.9,0.998,0.973,-0.025,-0.1,2.9,2.8,213,56%,-0.7,2.7,1.7,72,85%,0.2,1.2,0.6,16.8,79.6%,SG
+28,F,Kawhi Leonard,"Kawhi Leonard,San Antonio Spurs",",",9,Creators,No,San Antonio Spurs,15.9,0.929,1.007,0.078,1.2,14.8,16.0,38,92%,-0.6,5.4,5.7,85,82%,9.4,10.3,1.9,16.7,94.2%,F
+131,PF,Al Farouq Aminu,"Al Farouq Aminu,Portland Trail Blazers",",",45,Stretch Bigs,No,Portland Trail Blazers,9.9,1.008,0.962,-0.046,-0.5,10.0,9.5,310,35%,-0.8,10.2,10.4,63,87%,-0.2,-0.9,0.4,16.5,72.7%,PF
+145,PF,Jeff Green,"Jeff Green,Cleveland Cavaliers",",",56,Reluctant Shooters,No,Cleveland Cavaliers,10.0,1.007,1.073,0.067,0.7,10.0,10.7,76,84%,0.4,8.2,8.2,335,30%,1.8,2.5,0.3,16.5,69.8%,PF
+126,SF,Thabo Sefolosha,"Thabo Sefolosha,Utah Jazz",",",38,Spot-Up Wings,No,Utah Jazz,7.7,1.029,1.061,0.032,0.2,8.0,8.2,133,72%,-0.2,7.9,8.5,175,64%,0.0,-0.3,0.4,15.6,73.8%,SF
+147,PG,Goran Dragic,"Goran Dragic,Miami Heat",",",53,Distributors,No,Miami Heat,18.6,0.928,0.929,0.001,0.0,17.2,17.2,176,63%,-0.3,9.0,7.6,146,70%,8.2,9.6,0.3,15.3,69.4%,PG
+146,PF,Mike Scott,"Mike Scott,Washington Wizards",",",52,Pick and Pop Bigs,No,Washington Wizards,8.3,1.013,1.109,0.096,0.8,8.4,9.2,66,86%,0.5,5.6,5.6,371,23%,2.8,3.6,0.3,15.0,69.6%,PF
+124,PF,Rudy Gay,"Rudy Gay,San Antonio Spurs",",",34,Ball Stoppers,No,San Antonio Spurs,11.9,0.964,0.963,-0.002,0.0,11.4,11.4,197,59%,-0.4,7.3,7.2,112,77%,4.1,4.2,0.4,14.4,74.2%,PF
+140,SG,Devin Harris,"Devin Harris,Denver Nuggets",",",46,Secondary Creators,No,Denver Nuggets,8.6,0.950,0.975,0.025,0.2,8.2,8.4,143,70%,-0.1,4.3,4.4,195,59%,3.8,4.0,0.3,14.4,70.8%,SG
+150,SF,Jaylen Brown,"Jaylen Brown,Boston Celtics",",",54,Reluctant Shooters,No,Boston Celtics,14.5,0.996,0.967,-0.030,-0.4,14.5,14.0,301,37%,-0.7,10.2,9.9,75,84%,4.3,4.1,0.3,14.4,68.8%,SF
+153,PG,Raymond Felton,"Raymond Felton,Oklahoma City Thunder",",",59,Distributors,No,Oklahoma City Thunder,7.9,0.904,0.869,-0.035,-0.3,7.2,6.9,263,45%,-0.5,4.9,3.8,100,79%,2.3,3.1,0.2,14.3,68.1%,PG
+154,PG,Spencer Dinwiddie,"Spencer Dinwiddie,Brooklyn Nets",",",58,Creators,No,Brooklyn Nets,14.3,0.900,0.947,0.047,0.7,12.9,13.5,75,84%,0.4,9.5,10.2,350,27%,3.4,3.3,0.2,14.0,67.9%,PG
+142,PF,Nemanja Bjelica,"Nemanja Bjelica,Minnesota Timberwolves",",",45,Stretch Bigs,No,Minnesota Timberwolves,5.3,1.016,1.109,0.093,0.5,5.4,5.9,99,79%,0.2,5.2,5.6,283,41%,0.2,0.2,0.3,13.9,70.4%,PF
+156,C,Marcin Gortat,"Marcin Gortat,Washington Wizards",",",57,Roll-and-Cut Bigs,No,Washington Wizards,9.2,1.047,0.951,-0.097,-0.9,9.7,8.8,404,16%,-1.1,10.7,10.5,37,92%,-1.0,-1.7,0.2,13.6,67.5%,C
+115,C,Brandan Wright,"Brandan Wright,Houston Rockets",",",27,Roll-and-Cut Bigs,No,Houston Rockets,4.5,1.077,1.116,0.039,0.2,4.8,5.0,147,69%,-0.3,5.0,5.0,130,73%,-0.1,0.0,0.5,13.8,76.0%,C
+129,PG,Raul Neto,"Raul Neto,Utah Jazz",",",33,Distributors,No,Utah Jazz,5.4,0.927,0.927,0.000,0.0,5.0,5.0,185,61%,-0.4,5.3,4.8,121,75%,-0.3,0.2,0.4,12.9,73.1%,PG
+56,C,Nick Collison,"Nick Collison,Oklahoma City Thunder",",",9,Unskilled Bigs,No,Oklahoma City Thunder,1.7,0.954,1.133,0.179,0.3,1.6,1.9,123,74%,-1.1,1.5,0.9,39,92%,0.1,1.0,1.4,12.5,88.3%,C
+132,C,Lucas Nogueira,"Lucas Nogueira,Toronto Raptors",",",34,Parasitic Bigs,No,Toronto Raptors,2.5,1.054,1.083,0.029,0.1,2.6,2.7,168,65%,-0.3,4.6,4.2,139,71%,-2.0,-1.6,0.4,12.4,72.5%,C
+117,SF,Justin Anderson,"Justin Anderson,Philadelphia 76ers",",",26,Reluctant Shooters,No,Philadelphia 76ers,5.9,1.007,1.026,0.019,0.1,5.9,6.0,160,67%,-0.4,3.9,3.5,124,74%,2.0,2.5,0.5,12.2,75.6%,SF
+152,PG,T.J. McConnell,"T.J. McConnell,Philadelphia 76ers",",",49,Distributors,No,Philadelphia 76ers,8.2,0.918,0.886,-0.032,-0.3,7.6,7.3,258,46%,-0.5,8.3,8.0,102,79%,-0.7,-0.7,0.2,12.2,68.3%,PG
+161,C,Patrick Patterson,"Patrick Patterson,Oklahoma City Thunder",",",59,Pick and Pop Bigs,No,Oklahoma City Thunder,3.9,1.011,0.912,-0.098,-0.4,3.9,3.5,286,40%,-0.6,4.0,4.3,89,81%,-0.1,-0.7,0.2,12.1,66.5%,C
+24,PF,Adreian Payne,"Adreian Payne,Orlando Magic",",",6,Parasitic Bigs,No,Orlando Magic,2.5,0.915,1.400,0.485,1.2,2.3,3.5,39,92%,-0.7,0.7,0.3,71,85%,1.6,3.2,1.9,11.7,95.0%,PF
+155,SF,James Ennis,"James Ennis,Detroit Pistons",",",48,Reluctant Shooters,No,Detroit Pistons,6.6,1.002,1.066,0.065,0.4,6.6,7.0,105,78%,0.2,2.9,2.8,284,41%,3.7,4.2,0.2,11.5,67.7%,SF
+162,C,Enes Kanter,"Enes Kanter,New York Knicks",",",55,Post-Up Bigs,No,New York Knicks,13.1,1.011,1.096,0.085,1.1,13.2,14.3,44,91%,0.9,10.8,11.2,434,10%,2.4,3.1,0.2,11.1,66.3%,C
+163,SF,Bojan Bogdanovic,"Bojan Bogdanovic,Indiana Pacers",",",57,Off-Ball Workers,No,Indiana Pacers,12.6,0.997,1.065,0.068,0.9,12.6,13.4,60,88%,0.7,9.2,9.1,405,16%,3.4,4.4,0.2,10.8,66.0%,SF
+158,PG,George Hill,"George Hill,Cleveland Cavaliers",",",45,Secondary Creators,No,Cleveland Cavaliers,10.0,0.923,1.020,0.097,1.0,9.2,10.2,53,89%,0.7,3.6,3.6,413,14%,5.6,6.6,0.2,10.2,67.1%,PG
+85,PG,Mike Conley,"Mike Conley,Memphis Grizzlies",",",12,Distributors,No,Memphis Grizzlies,17.7,0.912,0.958,0.046,0.8,16.1,16.9,65,86%,-0.1,10.2,9.8,210,56%,5.9,7.1,0.9,10.3,82.3%,PG
+159,C,Marreese Speights,"Marreese Speights,Orlando Magic",",",47,Pick and Pop Bigs,No,Orlando Magic,8.1,0.984,0.979,-0.005,0.0,8.0,7.9,204,58%,-0.3,6.7,6.0,147,69%,1.3,1.9,0.2,10.2,66.9%,C
+78,PF,Mirza Teletovic,"Mirza Teletovic,Milwaukee Bucks",",",10,Stretch Bigs,No,Milwaukee Bucks,6.4,0.994,1.109,0.116,0.7,6.4,7.1,71,85%,-0.2,4.8,5.2,157,67%,1.5,1.9,1.0,9.6,83.8%,PF
+118,C,Boban Marjanovic,"Boban Marjanovic,Los Angeles Clippers",",",19,Post-Up Bigs,No,Los Angeles Clippers,6.3,0.909,0.958,0.049,0.3,5.7,6.1,122,75%,-0.2,4.8,4.8,177,63%,1.0,1.3,0.5,8.9,75.4%,C
+169,SG,Courtney Lee,"Courtney Lee,New York Knicks",",",59,Secondary Creators,No,New York Knicks,12.9,0.953,0.989,0.036,0.5,12.3,12.7,102,79%,0.3,8.9,8.7,321,33%,3.4,4.0,0.2,9.0,64.8%,SG
+164,PF,Ersan Ilyasova,"Ersan Ilyasova,Atlanta Hawks",",",46,Bigs-with-Touch,No,Atlanta Hawks,10.5,1.027,1.029,0.002,0.0,10.8,10.8,180,63%,-0.2,9.5,9.1,172,64%,1.3,1.7,0.2,8.7,65.8%,PF
+160,PG,Joe Young,"Joe Young,Indiana Pacers",",",41,Secondary Creators,No,Indiana Pacers,3.8,0.943,1.013,0.070,0.3,3.6,3.9,130,73%,0.1,2.9,2.6,255,47%,0.7,1.2,0.2,8.5,66.7%,PG
+166,C,Alex Len,"Alex Len,Phoenix Suns",",",49,Roll-and-Cut Bigs,No,Phoenix Suns,8.0,1.038,1.051,0.013,0.1,8.3,8.4,162,66%,-0.1,9.2,9.3,208,57%,-0.9,-0.9,0.2,8.1,65.4%,C
+165,C,Eric Moreland,"Eric Moreland,Detroit Pistons",",",45,Unskilled Bigs,No,Detroit Pistons,1.9,1.025,0.776,-0.248,-0.5,1.9,1.5,315,34%,-0.6,3.8,3.8,83,83%,-1.8,-2.3,0.2,7.9,65.6%,C
+112,SF,Alfonzo McKinnie,"Alfonzo McKinnie,Toronto Raptors",",",12,Spot-Up Wings,Yes,Toronto Raptors,1.3,0.972,1.188,0.215,0.3,1.3,1.6,126,74%,-0.2,1.3,0.8,150,69%,0.0,0.8,0.5,6.4,76.7%,SF
+144,PF,Alex Poythress,"Alex Poythress,Indiana Pacers",",",21,Stretch Bigs,No,Indiana Pacers,1.1,1.024,0.913,-0.111,-0.1,1.1,1.0,222,54%,-0.4,1.5,1.2,113,76%,-0.4,-0.2,0.3,6.4,70.0%,PF
+125,SG,Derrick White,"Derrick White,San Antonio Spurs",",",15,Spot-Up Wings,Yes,San Antonio Spurs,2.7,0.951,1.000,0.049,0.1,2.5,2.7,155,68%,-0.3,3.1,2.7,141,71%,-0.5,-0.1,0.4,6.2,74.0%,SG
+171,C,Tyler Zeller,"Tyler Zeller,Milwaukee Bucks",",",46,Parasitic Bigs,No,Milwaukee Bucks,6.7,1.070,1.036,-0.034,-0.2,7.2,7.0,249,48%,-0.4,2.4,2.4,123,74%,4.8,4.6,0.1,6.1,64.4%,C
+173,SF,Khris Middleton,"Khris Middleton,Milwaukee Bucks",",",56,Glue Guys,No,Milwaukee Bucks,19.6,0.944,1.000,0.056,1.1,18.5,19.6,46,90%,1.0,11.0,11.3,444,8%,7.5,8.3,0.1,5.8,64.0%,SF
+172,SF,Manu Ginobili,"Manu Ginobili,San Antonio Spurs",",",45,Distributors,No,San Antonio Spurs,9.9,0.927,0.942,0.015,0.2,9.2,9.3,150,69%,0.0,4.9,4.4,241,50%,4.3,5.0,0.1,5.7,64.2%,SF
+130,PG,Derrick Walton Jr.,"Derrick Walton Jr.,Miami Heat",",",14,Spot-Up Wings,No,Miami Heat,2.0,0.913,0.964,0.051,0.1,1.8,1.9,163,66%,-0.3,3.0,2.4,142,70%,-1.2,-0.5,0.4,5.3,72.9%,PG
+167,C,Mike Muscala,"Mike Muscala,Atlanta Hawks",",",30,Pick and Pop Bigs,No,Atlanta Hawks,5.6,1.036,1.096,0.060,0.3,5.8,6.1,117,76%,0.2,6.4,6.3,281,41%,-0.7,-0.2,0.2,4.8,65.2%,C
+106,C,Joakim Noah,"Joakim Noah,New York Knicks",",",8,Unskilled Bigs,No,New York Knicks,2.0,1.001,0.750,-0.251,-0.5,2.0,1.5,320,33%,-1.1,2.5,1.8,41,91%,-0.5,-0.3,0.6,4.5,77.9%,C
+174,SF,Cedi Osman,"Cedi Osman,Cleveland Cavaliers",",",45,Spot-Up Wings,Yes,Cleveland Cavaliers,2.9,0.992,1.039,0.047,0.1,2.8,3.0,154,68%,0.0,3.1,3.0,250,48%,-0.2,0.0,0.1,4.4,63.8%,SF
+168,SG,Terrence Ross,"Terrence Ross,Orlando Magic",",",22,Spot-Up Wings,No,Orlando Magic,9.9,0.959,0.912,-0.047,-0.5,9.5,9.0,311,35%,-0.6,8.6,8.3,86,82%,0.8,0.7,0.2,3.4,65.0%,SG
+170,PG,Alex Caruso,"Alex Caruso,Los Angeles Lakers",",",24,Distributors,Yes,Los Angeles Lakers,3.5,0.950,0.747,-0.203,-0.7,3.3,2.6,368,23%,-0.8,4.9,3.5,61,87%,-1.6,-0.9,0.1,3.3,64.6%,PG
+127,C,Udonis Haslem,"Udonis Haslem,Miami Heat",",",8,Bigs-with-Touch,No,Miami Heat,1.0,0.997,0.875,-0.122,-0.1,1.0,0.9,223,54%,-0.5,2.6,1.9,101,79%,-1.6,-1.0,0.4,3.2,73.5%,C
+81,SF,Johnathan Motley,"Johnathan Motley,Dallas Mavericks",",",3,Post-Up Bigs,No,Dallas Mavericks,3.0,0.943,1.000,0.057,0.2,2.8,3.0,148,69%,-0.8,0.6,0.0,66,86%,2.2,3.0,0.9,2.8,83.1%,SF
+178,SG,Yogi Ferrell,"Yogi Ferrell,Dallas Mavericks",",",58,Glue Guys,No,Dallas Mavericks,10.3,0.947,0.983,0.036,0.4,9.8,10.2,111,77%,0.3,9.4,10.4,324,33%,0.4,-0.3,0.0,2.6,62.9%,SG
+17,PG,Naz Mitrou-Long,"Naz Mitrou-Long,Utah Jazz",",",1,Stretch Bigs,No,Utah Jazz,1.0,1.008,3.000,1.992,2.0,1.0,3.0,17,96%,-0.6,0.8,0.0,91,81%,0.2,3.0,2.6,2.6,96.5%,PG
+179,PF,Ryan Anderson,"Ryan Anderson,Houston Rockets",",",55,Pick and Pop Bigs,No,Houston Rockets,9.1,1.030,1.097,0.068,0.6,9.4,10.0,83,83%,0.6,8.5,8.4,379,21%,0.9,1.6,0.0,2.4,62.7%,PF
+177,C,Brook Lopez,"Brook Lopez,Los Angeles Lakers",",",48,Versatile Bigs,No,Los Angeles Lakers,12.7,0.986,0.936,-0.050,-0.6,12.5,11.9,350,27%,-0.7,9.9,9.5,76,84%,2.6,2.4,0.0,2.3,63.1%,C
+183,C,Ian Mahinmi,"Ian Mahinmi,Washington Wizards",",",55,Unskilled Bigs,No,Washington Wizards,4.7,1.042,0.935,-0.107,-0.5,4.9,4.4,323,33%,-0.5,6.2,5.8,98,80%,-1.3,-1.4,0.0,1.9,61.9%,C
+39,PG,Jeremy Lin,"Jeremy Lin,Brooklyn Nets",",",1,Rock Pounders,No,Brooklyn Nets,18.0,0.877,1.000,0.123,2.2,15.8,18.0,13,97%,0.5,9.4,10.0,366,24%,6.4,8.0,1.7,1.7,91.9%,PG
+182,PF,Draymond Green,"Draymond Green,Golden State Warriors",",",50,Reluctant Shooters,No,Golden State Warriors,13.2,0.995,0.862,-0.133,-1.8,13.1,11.4,466,3%,-1.8,11.0,10.7,12,98%,2.1,0.7,0.0,1.8,62.1%,PF
+89,SF,Bruno Caboclo,"Bruno Caboclo,Toronto Raptors",",",2,Glue Guys,No,Toronto Raptors,0.5,1.087,0.000,-1.087,-0.5,0.5,0.0,328,32%,-1.3,1.9,0.0,26,95%,-1.4,0.0,0.8,1.6,81.5%,SF
+149,PF,Okaro White,"Okaro White,Atlanta Hawks",",",5,Stretch Bigs,No,Atlanta Hawks,3.8,0.986,1.053,0.066,0.3,3.7,4.0,132,73%,0.0,6.8,6.8,212,56%,-3.1,-2.8,0.3,1.4,69.0%,PF
+184,PF,Noah Vonleh,"Noah Vonleh,Chicago Bulls",",",34,Bigs-with-Touch,No,Chicago Bulls,3.7,1.056,0.968,-0.087,-0.3,3.9,3.6,273,43%,-0.4,4.5,4.5,126,74%,-0.6,-0.9,0.0,1.1,61.7%,PF
+181,PF,Chandler Parsons,"Chandler Parsons,Memphis Grizzlies",",",27,Glue Guys,No,Memphis Grizzlies,8.2,0.963,1.050,0.087,0.7,7.9,8.6,74,85%,0.7,5.1,5.9,407,15%,2.8,2.7,0.0,1.0,62.3%,PF
+148,PG,Jacob Pullen,"Jacob Pullen,Philadelphia 76ers",",",3,Spot-Up Wings,No,Philadelphia 76ers,1.0,0.804,0.667,-0.138,-0.1,0.8,0.7,225,53%,-0.4,1.3,0.7,114,76%,-0.5,0.0,0.3,0.9,69.2%,PG
+87,PF,Gordon Hayward,"Gordon Hayward,Boston Celtics",",",1,Unskilled Bigs,No,Boston Celtics,2.0,1.178,1.000,-0.178,-0.4,2.4,2.0,281,41%,-1.2,1.7,0.0,36,93%,0.7,2.0,0.8,0.8,81.9%,PF
+151,PF,James Michael McAdoo,"James Michael McAdoo,Philadelphia 76ers",",",3,Stretch Bigs,No,Philadelphia 76ers,3.0,0.979,0.667,-0.313,-0.9,2.9,2.0,415,14%,-1.2,1.9,1.0,34,93%,1.0,1.0,0.3,0.8,68.5%,PF
+157,PG,Monte Morris,"Monte Morris,Denver Nuggets",",",3,Stretch Bigs,No,Denver Nuggets,2.7,0.941,1.250,0.309,0.8,2.5,3.3,64,87%,0.6,3.2,4.0,386,20%,-0.7,-0.7,0.2,0.7,67.3%,PG
+188,C,Jack Cooley,"Jack Cooley,Sacramento Kings",",",0,Parasitic Bigs,No,Sacramento Kings,Sacramento Kings,0.0,0.0,0.0,0.0,#DIV/0!,#DIV/0!,186,-,0.0,0.0,0.0,227,-,#DIV/0!,#DIV/0!,0.0,0.0,-,C
+185,C,Cody Zeller,"Cody Zeller,Charlotte Hornets",",",26,Bigs-with-Touch,No,Charlotte Hornets,7.1,1.022,0.968,-0.055,-0.4,7.3,6.9,291,39%,-0.4,7.7,7.3,116,76%,-0.5,-0.4,0.0,0.5,61.5%,C
+176,SG,Julyan Stone,"Julyan Stone,Charlotte Hornets",",",11,Distributors,No,Charlotte Hornets,0.7,0.820,0.750,-0.070,-0.1,0.6,0.5,206,57%,-0.1,1.2,1.1,193,60%,-0.6,-0.5,0.0,0.5,63.3%,SG
+114,SF,Luol Deng,"Luol Deng,Los Angeles Lakers",",",1,Glue Guys,No,Los Angeles Lakers,3.0,1.087,0.667,-0.420,-1.3,3.3,2.0,446,7%,-1.8,10.4,8.0,14,97%,-7.2,-6.0,0.5,0.5,76.3%,SF
+175,PF,Brice Johnson,"Brice Johnson,Memphis Grizzlies",",",9,Roll-and-Cut Bigs,No,Memphis Grizzlies,1.8,1.016,1.000,-0.016,0.0,1.8,1.8,200,58%,-0.1,1.2,1.2,200,58%,0.6,0.6,0.1,0.5,63.5%,PF
+186,SF,Evan Fournier,"Evan Fournier,Orlando Magic",",",49,Secondary Creators,No,Orlando Magic,17.2,0.964,1.033,0.069,1.2,16.6,17.8,40,92%,1.2,9.3,9.7,458,5%,7.3,8.1,0.0,0.3,61.3%,SF
+180,PF,Joel Bolomboy,"Joel Bolomboy,Milwaukee Bucks",",",6,Bigs-with-Touch,No,Milwaukee Bucks,1.8,1.055,0.818,-0.237,-0.4,1.9,1.5,303,37%,-0.5,2.5,2.8,107,78%,-0.5,-1.3,0.0,0.3,62.5%,PF
+187,SF,Lance Thomas,"Lance Thomas,New York Knicks",",",56,Stretch Bigs,No,New York Knicks,4.4,1.006,0.882,-0.124,-0.5,4.4,3.9,330,31%,-0.5,4.7,4.0,95,80%,-0.3,-0.1,0.0,0.0,61.0%,SF
+193,PF,Tyler Cavanaugh,"Tyler Cavanaugh,Atlanta Hawks",",",30,Pick and Pop Bigs,No,Atlanta Hawks,4.5,1.038,1.104,0.066,0.3,4.6,4.9,124,74%,0.3,5.3,5.3,315,34%,-0.7,-0.3,0.0,-0.1,59.8%,PF
+194,PF,Lauri Markkanen,"Lauri Markkanen,Chicago Bulls",",",51,Pick and Pop Bigs,Yes,Chicago Bulls,14.9,0.990,1.017,0.027,0.4,14.8,15.2,107,78%,0.4,9.5,9.6,344,28%,5.3,5.6,0.0,-0.1,59.6%,PF
+196,PF,Paul Millsap,"Paul Millsap,Denver Nuggets",",",16,Versatile Bigs,No,Denver Nuggets,16.4,0.987,0.924,-0.063,-1.0,16.2,15.2,426,11%,-1.0,10.8,10.7,42,91%,5.4,4.5,0.0,-0.4,59.2%,PF
+198,PG,Ryan Arcidiacono,"Ryan Arcidiacono,Chicago Bulls",",",13,Stretch Bigs,Yes,Chicago Bulls,1.2,0.924,0.938,0.014,0.0,1.1,1.2,182,62%,0.1,2.9,2.6,253,47%,-1.7,-1.5,0.0,-0.4,58.8%,PG
+212,SF,Malcolm Miller,"Malcolm Miller,Toronto Raptors",",",3,Stretch Bigs,No,Toronto Raptors,1.7,1.029,1.200,0.171,0.3,1.7,2.0,127,74%,0.4,1.3,1.3,352,27%,0.4,0.7,-0.2,-0.5,55.8%,SF
+205,SF,Jabari Bird,"Jabari Bird,Boston Celtics",",",6,Off-Ball Workers,Yes,Boston Celtics,1.0,1.089,0.833,-0.256,-0.3,1.1,0.8,255,47%,-0.2,1.3,1.0,176,63%,-0.2,-0.2,-0.1,-0.6,57.3%,SF
+197,SF,Wesley Johnson,"Wesley Johnson,Los Angeles Clippers",",",51,Stretch Bigs,No,Los Angeles Clippers,7.2,0.993,0.897,-0.096,-0.7,7.2,6.5,367,24%,-0.7,7.8,7.5,80,83%,-0.6,-1.0,0.0,-1.4,59.0%,SF
+242,SF,Daniel Hamilton,"Daniel Hamilton,Oklahoma City Thunder",",",4,Rock Pounders,No,Oklahoma City Thunder,Oklahoma City Thunder,3.3,0.0,-3.2,0.0,3.0,3.0,181,62%,0.3,1.9,1.0,306,36%,1.1,2.0,-0.3,-1.0,49.6%,SF
+299,PG,London Perrantes,"London Perrantes,Cleveland Cavaliers",",",2,Stretch Bigs,No,Cleveland Cavaliers,0.5,1.008,0.000,-1.008,-0.5,0.5,0.0,321,33%,0.0,1.5,1.5,238,50%,-1.0,-1.5,-0.5,-1.0,37.7%,PG
+195,C,Pau Gasol,"Pau Gasol,San Antonio Spurs",",",56,Versatile Bigs,No,San Antonio Spurs,11.3,0.999,0.948,-0.051,-0.6,11.2,10.7,342,29%,-0.6,10.3,10.6,92,81%,0.9,0.1,0.0,-1.2,59.4%,C
+246,PF,Jacob Wiley,"Jacob Wiley,Brooklyn Nets",",",5,Stretch Bigs,No,Brooklyn Nets,1.0,1.044,0.800,-0.244,-0.2,1.0,0.8,254,47%,0.0,2.8,2.8,240,50%,-1.8,-2.0,-0.3,-1.3,48.8%,PF
+325,SF,Luis Montero,"Luis Montero,Detroit Pistons",",",2,Stretch Bigs,No,Detroit Pistons,1.5,0.866,0.000,-0.866,-1.3,1.3,0.0,447,7%,-0.6,1.0,0.0,84,83%,0.3,0.0,-0.7,-1.3,32.3%,SF
+188,PF,Tyler Lydon,"Tyler Lydon,Denver Nuggets",",",0,Unskilled Bigs,No,Denver Nuggets,Denver Nuggets,0.0,0.0,0.0,0.0,#DIV/0!,#DIV/0!,186,-,0.0,0.0,0.0,227,-,#DIV/0!,#DIV/0!,0.0,0.0,-,PF
+200,SG,Rashad Vaughn,"Rashad Vaughn,New Orleans Pelicans",",",22,Spot-Up Wings,No,New Orleans Pelicans,2.6,1.008,1.017,0.009,0.0,2.7,2.7,178,63%,0.1,2.2,2.2,265,45%,0.4,0.5,-0.1,-1.3,58.3%,SG
+231,C,Thomas Bryant,"Thomas Bryant,Los Angeles Lakers",",",7,Parasitic Bigs,No,Los Angeles Lakers,1.4,1.050,0.900,-0.150,-0.2,1.5,1.3,241,50%,0.0,1.1,1.3,220,54%,0.4,0.0,-0.2,-1.4,51.9%,C
+295,C,Matt Costello,"Matt Costello,San Antonio Spurs",",",3,Unskilled Bigs,No,San Antonio Spurs,1.3,1.184,0.500,-0.684,-0.9,1.6,0.7,409,15%,-0.4,1.9,1.3,117,76%,-0.3,-0.7,-0.5,-1.5,38.5%,C
+357,SG,Jordan Crawford,"Jordan Crawford,New Orleans Pelicans",",",2,Distributors,No,New Orleans Pelicans,8.5,0.894,1.059,0.165,1.4,7.6,9.0,32,93%,2.2,5.3,7.5,479,0%,2.3,1.5,-0.8,-1.6,25.6%,SG
+235,PG,Josh Magette,"Josh Magette,Atlanta Hawks",",",8,Rock Pounders,Yes,Atlanta Hawks,2.4,0.856,1.105,0.249,0.6,2.0,2.6,88,82%,0.8,2.8,3.8,423,12%,-0.8,-1.1,-0.2,-1.8,51.0%,PG
+229,SG,Charles Cooke,"Charles Cooke,New Orleans Pelicans",",",9,Off-Ball Workers,Yes,New Orleans Pelicans,1.3,0.852,0.500,-0.352,-0.5,1.1,0.7,314,35%,-0.3,0.6,0.2,145,70%,0.5,0.4,-0.2,-1.8,52.3%,SG
+204,SF,Damien Wilkins,"Damien Wilkins,Indiana Pacers",",",20,Glue Guys,No,Indiana Pacers,2.3,0.933,0.717,-0.216,-0.5,2.1,1.7,319,34%,-0.4,1.6,1.1,119,75%,0.6,0.6,-0.1,-1.9,57.5%,SF
+225,PG,Quinn Cook,"Quinn Cook,Golden State Warriors",",",11,Glue Guys,No,Golden State Warriors,2.9,0.987,1.000,0.013,0.0,2.9,2.9,173,64%,0.2,3.3,3.5,291,39%,-0.5,-0.6,-0.2,-2.1,53.1%,PG
+304,SF,Nicolas Brussino,"Nicolas Brussino,Atlanta Hawks",",",4,Stretch Bigs,No,Atlanta Hawks,0.5,1.008,0.000,-1.008,-0.5,0.5,0.0,321,33%,0.0,0.5,0.5,243,49%,0.0,-0.5,-0.5,-2.1,36.7%,SF
+202,C,Mangok Mathiang,"Mangok Mathiang,Charlotte Hornets",",",37,Unskilled Bigs,No,Charlotte Hornets,0.1,1.192,0.000,-1.192,-0.1,0.1,0.0,212,56%,0.0,0.1,0.1,225,53%,-0.1,-0.1,-0.1,-2.3,57.9%,C
+472,PF,Mindaugas Kuzminskas,"Mindaugas Kuzminskas,New York Knicks",",",1,Unskilled Bigs,No,New York Knicks,2.0,1.178,0.000,-1.178,-2.4,2.4,0.0,478,0%,0.0,0.0,0.0,227,53%,2.4,0.0,-2.4,-2.4,1.7%,PF
+254,PF,Dorian Finney-Smith,"Dorian Finney-Smith,Dallas Mavericks",",",8,Stretch Bigs,No,Dallas Mavericks,3.8,1.016,0.867,-0.149,-0.6,3.8,3.3,335,30%,-0.3,4.6,4.6,148,69%,-0.8,-1.4,-0.3,-2.5,47.1%,PF
+188,PG,Marcus Paige,"Marcus Paige,Charlotte Hornets",",",0,Rock Pounders,No,Charlotte Hornets,Charlotte Hornets,0.0,0.0,0.0,0.0,#DIV/0!,#DIV/0!,186,-,0.0,0.0,0.0,227,-,#DIV/0!,#DIV/0!,0.0,0.0,-,PG
+297,PF,Jalen Jones,"Jalen Jones,Dallas Mavericks",",",5,Stretch Bigs,Yes,Dallas Mavericks,3.4,0.921,0.941,0.020,0.1,3.1,3.2,169,65%,0.6,3.7,4.2,381,21%,-0.6,-1.0,-0.5,-2.6,38.1%,PF
+263,SG,Gian Clavell,"Gian Clavell,Dallas Mavericks",",",7,Spot-Up Wings,Yes,Dallas Mavericks,3.0,0.999,0.952,-0.047,-0.1,3.0,2.9,226,53%,0.2,3.9,3.9,294,39%,-0.9,-1.0,-0.4,-2.6,45.2%,SG
+278,SG,John Holland,"John Holland,Cleveland Cavaliers",",",6,Distributors,No,Cleveland Cavaliers,1.7,0.980,0.600,-0.380,-0.6,1.6,1.0,349,27%,-0.2,2.5,2.0,170,65%,-0.9,-1.0,-0.5,-2.7,42.1%,SG
+249,C,Ike Anigbogu,"Ike Anigbogu,Indiana Pacers",",",10,Versatile Bigs,Yes,Indiana Pacers,1.4,0.972,0.929,-0.043,-0.1,1.4,1.3,211,56%,0.2,1.7,1.6,289,40%,-0.3,-0.3,-0.3,-2.7,48.1%,C
+385,C,Josh McRoberts,"Josh McRoberts,Dallas Mavericks",",",3,Stretch Bigs,No,Dallas Mavericks,0.3,1.008,0.000,-1.008,-0.3,0.3,0.0,276,43%,0.6,1.0,2.0,398,17%,-0.7,-2.0,-1.0,-3.0,19.8%,C
+223,SF,Kyle Collinsworth,"Kyle Collinsworth,Dallas Mavericks",",",16,Glue Guys,No,Dallas Mavericks,3.2,0.952,0.863,-0.089,-0.3,3.0,2.8,264,45%,-0.1,4.1,3.9,194,60%,-1.1,-1.2,-0.2,-3.0,53.5%,SF
+232,C,Ante Zizic,"Ante Zizic,Cleveland Cavaliers",",",14,Post-Up Bigs,Yes,Cleveland Cavaliers,1.3,1.010,0.833,-0.177,-0.2,1.3,1.1,248,48%,0.0,1.0,1.1,217,55%,0.3,-0.1,-0.2,-3.0,51.7%,C
+201,SF,Brandon Paul,"Brandon Paul,San Antonio Spurs",",",49,Spot-Up Wings,Yes,San Antonio Spurs,3.0,0.980,0.890,-0.090,-0.3,2.9,2.7,259,46%,-0.2,2.9,2.7,162,66%,0.1,-0.1,-0.1,-3.0,58.1%,SF
+199,SG,Joe Harris,"Joe Harris,Brooklyn Nets",",",57,Spot-Up Wings,No,Brooklyn Nets,9.5,1.003,1.096,0.093,0.9,9.5,10.4,58,88%,0.9,7.0,7.3,435,9%,2.5,3.1,-0.1,-3.3,58.5%,SG
+210,C,Meyers Leonard,"Meyers Leonard,Portland Trail Blazers",",",22,Parasitic Bigs,No,Portland Trail Blazers,3.0,1.019,1.269,0.250,0.8,3.1,3.9,69,86%,0.9,4.2,4.8,432,10%,-1.1,-0.9,-0.1,-3.3,56.3%,C
+287,SG,Davon Reed,"Davon Reed,Phoenix Suns",",",7,Secondary Creators,No,Phoenix Suns,2.6,0.972,0.500,-0.472,-1.2,2.5,1.3,444,8%,-0.7,1.9,0.9,70,85%,0.6,0.4,-0.5,-3.4,40.2%,SG
+228,PF,Chris McCullough,"Chris McCullough,Washington Wizards",",",18,Parasitic Bigs,No,Washington Wizards,2.7,1.059,0.958,-0.101,-0.3,2.8,2.6,260,46%,-0.1,1.5,1.5,202,58%,1.3,1.1,-0.2,-3.5,52.5%,PF
+234,PG,Dwight Buycks,"Dwight Buycks,Detroit Pistons",",",16,Rock Pounders,No,Detroit Pistons,8.8,0.906,0.879,-0.027,-0.2,7.9,7.7,252,48%,0.0,5.0,4.8,214,55%,2.9,2.9,-0.2,-3.5,51.3%,PG
+206,C,Tarik Black,"Tarik Black,Houston Rockets",",",37,Parasitic Bigs,No,Houston Rockets,3.8,1.055,0.943,-0.111,-0.4,4.0,3.6,298,38%,-0.3,4.1,3.9,134,72%,-0.1,-0.3,-0.1,-3.7,57.1%,C
+339,PG,Nate Wolters,"Nate Wolters,Utah Jazz",",",5,Distributors,No,Utah Jazz,1.2,0.908,0.333,-0.575,-0.7,1.1,0.4,365,24%,0.0,1.6,1.6,252,48%,-0.5,-1.2,-0.7,-3.7,29.4%,PG
+425,C,Josh Smith,"Josh Smith,New Orleans Pelicans",",",3,Bigs-with-Touch,No,New Orleans Pelicans,1.7,0.971,0.400,-0.571,-1.0,1.6,0.7,417,13%,0.4,2.6,3.0,334,30%,-1.0,-2.3,-1.3,-4.0,11.5%,C
+312,PG,Kadeem Allen,"Kadeem Allen,Boston Celtics",",",7,Distributors,No,Boston Celtics,1.7,0.894,0.417,-0.477,-0.8,1.5,0.7,395,18%,-0.2,0.6,0.3,151,69%,0.9,0.4,-0.6,-4.0,35.0%,PG
+203,SG,Justin Holiday,"Justin Holiday,Chicago Bulls",",",56,Spot-Up Wings,No,Chicago Bulls,13.7,0.970,0.963,-0.007,-0.1,13.3,13.2,217,55%,0.0,11.7,11.8,216,55%,1.6,1.4,-0.1,-4.1,57.7%,SG
+209,SG,Ron Baker,"Ron Baker,New York Knicks",",",29,Glue Guys,No,New York Knicks,3.1,0.926,0.789,-0.137,-0.4,2.9,2.4,300,38%,-0.3,4.0,3.9,140,71%,-1.1,-1.4,-0.1,-4.2,56.5%,SG
+264,SF,Kyle Singler,"Kyle Singler,Oklahoma City Thunder",",",11,Spot-Up Wings,No,Oklahoma City Thunder,2.6,0.961,0.793,-0.168,-0.4,2.5,2.1,306,36%,-0.1,1.8,1.9,207,57%,0.7,0.2,-0.4,-4.2,45.0%,SF
+219,C,Guillermo Hernangomez,"Guillermo Hernangomez,Charlotte Hornets",",",26,Post-Up Bigs,No,Charlotte Hornets,4.4,1.019,0.948,-0.072,-0.3,4.5,4.2,269,44%,-0.1,4.2,4.2,179,63%,0.3,0.0,-0.2,-4.4,54.4%,C
+252,SF,Ivan Rabb,"Ivan Rabb,Memphis Grizzlies",",",16,Post-Up Bigs,Yes,Memphis Grizzlies,4.6,0.999,1.110,0.110,0.5,4.6,5.1,96,80%,0.8,4.8,5.6,420,13%,-0.2,-0.6,-0.3,-4.6,47.5%,SF
+283,C,Jeff Withey,"Jeff Withey,Dallas Mavericks",",",10,Parasitic Bigs,No,Dallas Mavericks,1.9,1.014,0.789,-0.224,-0.4,1.9,1.5,299,38%,0.0,1.5,1.5,251,48%,0.4,0.0,-0.5,-4.7,41.0%,C
+207,SG,David Nwaba,"David Nwaba,Chicago Bulls",",",45,Reluctant Shooters,No,Chicago Bulls,6.9,1.029,0.997,-0.032,-0.2,7.1,6.8,245,49%,-0.1,7.5,7.5,187,61%,-0.4,-0.7,-0.1,-4.8,56.9%,SG
+218,SG,Sterling Brown,"Sterling Brown,Milwaukee Bucks",",",30,Spot-Up Wings,Yes,Milwaukee Bucks,4.6,1.013,0.906,-0.107,-0.5,4.7,4.2,318,34%,-0.3,4.9,4.9,133,72%,-0.2,-0.7,-0.2,-5.0,54.6%,SG
+243,PG,Isaiah Canaan,"Isaiah Canaan,Phoenix Suns",",",19,Distributors,No,Phoenix Suns,10.0,0.907,0.905,-0.002,0.0,9.1,9.1,196,59%,0.2,7.3,7.6,295,39%,1.8,1.5,-0.3,-5.0,49.4%,PG
+208,SG,Rodney Hood,"Rodney Hood,Cleveland Cavaliers",",",41,Secondary Creators,No,Cleveland Cavaliers,16.4,0.944,1.004,0.061,1.0,15.5,16.5,52,89%,1.1,1.2,1.0,457,5%,14.3,15.4,-0.1,-5.1,56.7%,SG
+365,PG,Milton Doyle,"Milton Doyle,Brooklyn Nets",",",6,Distributors,No,Brooklyn Nets,4.8,0.918,0.621,-0.297,-1.4,4.4,3.0,457,5%,-0.6,2.1,1.2,90,81%,2.3,1.8,-0.9,-5.1,24.0%,PG
+214,SG,Tyler Dorsey,"Tyler Dorsey,Atlanta Hawks",",",33,Glue Guys,Yes,Atlanta Hawks,5.1,0.968,0.935,-0.033,-0.2,5.0,4.8,233,51%,0.0,3.6,3.2,221,54%,1.4,1.6,-0.2,-5.3,55.4%,SG
+433,SF,Troy Williams,"Troy Williams,",",",4,Creators,No,,2.8,0.959,0.455,-0.504,-1.4,2.6,1.3,455,5%,0.0,2.5,2.5,227,53%,0.1,-1.3,-1.4,-5.5,9.8%,SF
+238,C,Andrew Bogut,"Andrew Bogut,Los Angeles Lakers",",",24,Unskilled Bigs,No,Los Angeles Lakers,1.9,0.906,0.800,-0.106,-0.2,1.7,1.5,239,50%,0.0,5.0,4.8,246,49%,-3.3,-3.3,-0.2,-5.6,50.4%,C
+279,PF,JaKarr Sampson,"JaKarr Sampson,Sacramento Kings",",",13,Bigs-with-Touch,No,Sacramento Kings,3.5,1.053,1.217,0.164,0.6,3.7,4.3,89,81%,1.0,5.1,6.8,449,6%,-1.4,-2.5,-0.5,-6.0,41.9%,PF
+233,C,Al Jefferson,"Al Jefferson,Indiana Pacers",",",29,Post-Up Bigs,No,Indiana Pacers,6.3,1.001,1.065,0.064,0.4,6.4,6.8,108,78%,0.6,6.8,7.3,392,18%,-0.4,-0.5,-0.2,-6.2,51.5%,C
+398,SF,Furkan Korkmaz,"Furkan Korkmaz,Philadelphia 76ers",",",6,Spot-Up Wings,No,Philadelphia 76ers,2.3,0.963,0.643,-0.320,-0.7,2.2,1.5,382,20%,0.3,1.8,1.8,318,34%,0.5,-0.3,-1.1,-6.3,17.1%,SF
+222,SF,Wesley Iwundu,"Wesley Iwundu,Orlando Magic",",",39,Reluctant Shooters,No,Orlando Magic,3.8,1.011,0.905,-0.107,-0.4,3.8,3.4,294,39%,-0.2,4.3,4.0,159,67%,-0.5,-0.6,-0.2,-7.2,53.8%,SF
+211,PF,Markieff Morris,"Markieff Morris,Washington Wizards",",",48,Versatile Bigs,No,Washington Wizards,11.2,0.973,0.966,-0.007,-0.1,10.9,10.8,214,55%,0.1,9.4,9.6,262,45%,1.5,1.2,-0.1,-7.2,56.0%,PF
+221,PF,Blake Griffin,"Blake Griffin,Detroit Pistons",",",41,Versatile Bigs,No,Detroit Pistons,23.3,0.951,0.944,-0.006,-0.1,22.1,22.0,228,53%,0.0,4.1,3.8,249,48%,18.0,18.2,-0.2,-7.4,54.0%,PF
+313,SF,Antonius Cleveland,"Antonius Cleveland,Dallas Mavericks",",",13,Spot-Up Wings,No,Dallas Mavericks,1.4,1.025,0.556,-0.470,-0.7,1.4,0.8,354,26%,-0.1,2.5,2.5,205,57%,-1.1,-1.7,-0.6,-7.5,34.8%,SF
+227,PF,Aaron Gordon,"Aaron Gordon,Orlando Magic",",",39,Glue Guys,No,Orlando Magic,18.7,0.987,0.982,-0.005,-0.1,18.5,18.4,220,54%,0.1,9.2,9.2,267,44%,9.2,9.2,-0.2,-7.5,52.7%,PF
+322,SG,Lorenzo Brown,"Lorenzo Brown,Toronto Raptors",",",12,Distributors,No,Toronto Raptors,1.8,0.942,0.636,-0.306,-0.6,1.7,1.2,337,30%,0.1,2.6,2.7,261,46%,-0.9,-1.5,-0.6,-7.6,32.9%,SG
+306,C,Omer Asik,"Omer Asik,Chicago Bulls",",",14,Roll-and-Cut Bigs,No,Chicago Bulls,1.9,1.032,0.667,-0.365,-0.7,2.0,1.3,369,23%,-0.2,4.6,4.6,178,63%,-2.6,-3.3,-0.6,-7.7,36.3%,C
+250,SF,C.J. Williams,"C.J. Williams,Los Angeles Clippers",",",28,Spot-Up Wings,No,Los Angeles Clippers,6.1,0.990,0.976,-0.013,-0.1,6.0,5.9,215,55%,0.2,6.4,6.8,287,40%,-0.4,-0.9,-0.3,-7.8,47.9%,SF
+446,SG,Vander Blue,"Vander Blue,Los Angeles Lakers",",",5,Stretch Bigs,No,Los Angeles Lakers,1.8,0.998,0.333,-0.664,-1.2,1.8,0.6,442,8%,0.4,2.2,2.6,337,30%,-0.4,-2.0,-1.6,-7.8,7.1%,SG
+386,C,Tony Bradley,"Tony Bradley,Utah Jazz",",",8,Parasitic Bigs,No,Utah Jazz,1.5,1.097,0.667,-0.430,-0.6,1.6,1.0,353,26%,0.3,2.8,3.0,326,32%,-1.2,-2.0,-1.0,-7.9,19.6%,C
+216,SG,Sindarius Thornwell,"Sindarius Thornwell,Los Angeles Clippers",",",49,Stretch Bigs,Yes,Los Angeles Clippers,3.6,0.987,0.893,-0.095,-0.3,3.6,3.2,278,42%,-0.2,5.0,4.9,169,65%,-1.4,-1.7,-0.2,-7.9,55.0%,SG
+215,PF,James Johnson,"James Johnson,Miami Heat",",",50,Glue Guys,No,Miami Heat,11.5,0.947,0.913,-0.034,-0.4,10.9,10.5,292,39%,-0.2,8.5,8.4,154,68%,2.4,2.0,-0.2,-8.1,55.2%,PF
+213,SG,Tony Snell,"Tony Snell,Milwaukee Bucks",",",51,Spot-Up Wings,No,Milwaukee Bucks,6.6,0.995,1.088,0.094,0.6,6.6,7.2,82,83%,0.8,6.7,6.6,417,13%,-0.1,0.6,-0.2,-8.2,55.6%,SG
+343,PG,Patrick Beverly,"Patrick Beverly,Los Angeles Clippers",",",11,Distributors,No,Los Angeles Clippers,13.8,0.929,0.882,-0.048,-0.7,12.8,12.2,360,25%,0.1,10.7,10.9,269,44%,2.1,1.3,-0.8,-8.4,28.5%,PG
+320,PG,Iman Shumpert,"Iman Shumpert,Sacramento Kings",",",14,Secondary Creators,No,Sacramento Kings,5.6,0.937,0.785,-0.152,-0.9,5.3,4.4,402,16%,-0.2,7.7,7.7,153,68%,-2.4,-3.3,-0.6,-8.7,33.3%,PG
+217,SG,Jodie Meeks,"Jodie Meeks,Washington Wizards",",",54,Off-Ball Workers,No,Washington Wizards,6.1,0.987,0.958,-0.029,-0.2,6.1,5.9,235,51%,0.0,4.3,3.7,215,55%,1.8,2.2,-0.2,-8.7,54.8%,SG
+239,PG,Shane Larkin,"Shane Larkin,Boston Celtics",",",37,Distributors,No,Boston Celtics,4.1,0.914,0.855,-0.059,-0.2,3.8,3.5,253,47%,0.0,3.9,4.0,222,54%,-0.2,-0.5,-0.2,-8.8,50.2%,PG
+330,C,Cole Aldrich,"Cole Aldrich,Minnesota Timberwolves",",",13,Post-Up Bigs,No,Minnesota Timberwolves,0.9,0.988,0.667,-0.322,-0.3,0.9,0.6,266,45%,0.4,1.5,1.5,338,30%,-0.6,-0.9,-0.7,-8.8,31.3%,C
+259,SF,Nik Stauskas,"Nik Stauskas,Brooklyn Nets",",",25,Glue Guys,No,Brooklyn Nets,5.8,0.961,0.945,-0.016,-0.1,5.6,5.5,216,55%,0.3,3.3,3.5,301,37%,2.3,2.0,-0.4,-8.8,46.0%,SF
+393,PF,Alec Peters,"Alec Peters,Phoenix Suns",",",9,Stretch Bigs,Yes,Phoenix Suns,3.0,1.005,0.556,-0.449,-1.3,3.0,1.7,454,5%,-0.3,2.0,2.0,135,72%,1.0,-0.3,-1.0,-9.3,18.1%,PF
+230,SF,Rondae Hollis-Jefferson,"Rondae Hollis-Jefferson,Brooklyn Nets",",",46,Versatile Bigs,No,Brooklyn Nets,14.7,1.004,0.978,-0.027,-0.4,14.7,14.3,289,40%,-0.2,10.2,10.4,168,65%,4.5,4.0,-0.2,-9.3,52.1%,SF
+224,C,Nikola Jokic,"Nikola Jokic,Denver Nuggets",",",50,Versatile Bigs,No,Denver Nuggets,16.9,0.980,0.980,0.000,0.0,16.6,16.6,194,60%,0.2,13.4,14.1,282,41%,3.2,2.5,-0.2,-9.3,53.3%,C
+226,SF,Luke Kennard,"Luke Kennard,Detroit Pistons",",",50,Off-Ball Workers,Yes,Detroit Pistons,7.1,0.952,0.938,-0.014,-0.1,6.8,6.7,219,54%,0.1,5.2,5.1,268,44%,1.6,1.6,-0.2,-9.6,52.9%,SF
+464,SG,Jamel Artis,"Jamel Artis,Orlando Magic",",",5,Point Forwards,No,Orlando Magic,3.8,0.990,0.474,-0.516,-2.0,3.8,1.8,472,2%,0.0,2.8,2.8,223,54%,0.9,-1.0,-2.0,-9.8,3.3%,SG
+284,C,Khem Birch,"Khem Birch,Orlando Magic",",",21,Unskilled Bigs,Yes,Orlando Magic,3.8,1.076,0.925,-0.151,-0.6,4.1,3.5,343,29%,-0.1,5.6,5.4,192,60%,-1.5,-1.9,-0.5,-10.0,40.8%,C
+292,PF,Juan Hernangomez,"Juan Hernangomez,Denver Nuggets",",",20,Stretch Bigs,No,Denver Nuggets,3.5,1.013,0.914,-0.099,-0.3,3.5,3.2,279,42%,0.2,4.6,4.5,277,42%,-1.0,-1.3,-0.5,-10.0,39.2%,PF
+337,G,Zach LaVine,"Zach LaVine,Chicago Bulls",",",14,Rock Pounders,No,Chicago Bulls,17.9,0.927,0.936,0.009,0.2,16.6,16.8,149,69%,0.9,4.9,5.3,430,10%,11.8,11.5,-0.7,-10.2,29.8%,G
+347,PG,Ramon Sessions,"Ramon Sessions,New York Knicks",",",13,Rock Pounders,No,New York Knicks,5.8,0.868,0.640,-0.228,-1.3,5.0,3.7,449,6%,-0.5,3.9,3.2,99,79%,1.1,0.5,-0.8,-10.1,27.7%,PG
+237,SF,Treveon Graham,"Treveon Graham,Charlotte Hornets",",",44,Stretch Bigs,No,Charlotte Hornets,4.9,0.984,1.009,0.025,0.1,4.8,4.9,157,67%,0.4,5.6,5.8,330,31%,-0.7,-0.9,-0.2,-10.1,50.6%,SF
+220,C,Domantas Sabonis,"Domantas Sabonis,Indiana Pacers",",",56,Parasitic Bigs,No,Indiana Pacers,12.5,1.035,0.967,-0.068,-0.8,13.0,12.1,401,16%,-0.7,9.1,8.8,78,84%,3.9,3.3,-0.2,-10.1,54.2%,C
+366,PG,Demetrius Jackson,"Demetrius Jackson,Houston Rockets",",",12,Glue Guys,No,Houston Rockets,2.0,0.910,0.333,-0.576,-1.2,1.8,0.7,438,9%,-0.3,2.6,2.2,137,71%,-0.8,-1.5,-0.9,-10.3,23.8%,PG
+371,SG,Antonio Blakeney,"Antonio Blakeney,Chicago Bulls",",",12,Glue Guys,Yes,Chicago Bulls,8.3,0.955,0.828,-0.127,-1.0,7.9,6.8,429,11%,-0.2,4.8,4.7,174,64%,3.1,2.2,-0.9,-10.6,22.7%,SG
+248,SF,DeAndre Liggins,"DeAndre Liggins,New Orleans Pelicans",",",40,Stretch Bigs,No,New Orleans Pelicans,2.5,0.981,0.830,-0.151,-0.4,2.5,2.1,285,41%,-0.1,1.5,1.3,188,61%,0.9,0.8,-0.3,-10.6,48.3%,SF
+361,PG,Briante Weber,"Briante Weber,Houston Rockets",",",13,Distributors,No,Houston Rockets,2.3,0.968,0.867,-0.101,-0.2,2.2,2.0,250,48%,0.6,3.0,3.7,382,20%,-0.8,-1.7,-0.8,-10.7,24.8%,PG
+340,SG,Gary Payton II,"Gary Payton II,Milwaukee Bucks",",",16,Reluctant Shooters,No,Milwaukee Bucks,3.1,1.033,0.800,-0.233,-0.7,3.2,2.5,375,22%,0.0,1.8,1.8,242,50%,1.4,0.7,-0.8,-12.0,29.2%,SG
+236,PF,DeMarre Carroll,"DeMarre Carroll,Brooklyn Nets",",",54,Spot-Up Wings,No,Brooklyn Nets,13.8,0.994,0.961,-0.033,-0.4,13.7,13.3,308,36%,-0.2,8.8,9.0,156,68%,4.9,4.3,-0.2,-12.0,50.8%,PF
+335,C,Ivica Zubac,"Ivica Zubac,Los Angeles Lakers",",",17,Post-Up Bigs,No,Los Angeles Lakers,1.8,0.984,0.677,-0.307,-0.6,1.8,1.2,334,30%,0.2,2.1,2.0,278,42%,-0.3,-0.8,-0.7,-12.2,30.2%,C
+342,SF,Richard Jefferson,"Richard Jefferson,Denver Nuggets",",",16,Reluctant Shooters,No,Denver Nuggets,2.0,1.046,0.813,-0.233,-0.5,2.1,1.6,313,35%,0.3,2.9,3.3,314,35%,-0.8,-1.6,-0.8,-12.2,28.8%,SF
+290,SG,Jason Terry,"Jason Terry,Milwaukee Bucks",",",25,Spot-Up Wings,No,Milwaukee Bucks,2.6,0.965,0.908,-0.058,-0.1,2.5,2.4,229,52%,0.3,2.5,2.9,325,32%,0.0,-0.6,-0.5,-12.3,39.6%,SG
+331,SG,Tyrone Wallace,"Tyrone Wallace,Los Angeles Clippers",",",18,Glue Guys,No,Los Angeles Clippers,10.3,1.010,0.935,-0.074,-0.8,10.4,9.6,386,20%,-0.1,9.5,9.6,204,58%,0.9,0.1,-0.7,-12.4,31.0%,SG
+309,PF,Guerschon Yabusele,"Guerschon Yabusele,Boston Celtics",",",22,Pick and Pop Bigs,Yes,Boston Celtics,2.0,1.020,0.907,-0.113,-0.2,2.0,1.8,244,49%,0.3,1.9,2.2,327,32%,0.1,-0.5,-0.6,-12.4,35.6%,PF
+247,C,Kevon Looney,"Kevon Looney,Golden State Warriors",",",47,Unskilled Bigs,No,Golden State Warriors,3.1,1.084,0.986,-0.098,-0.3,3.3,3.0,267,44%,0.0,5.3,5.3,211,56%,-2.0,-2.2,-0.3,-12.5,48.5%,C
+348,SF,Danuel House,"Danuel House,Phoenix Suns",",",16,Spot-Up Wings,No,Phoenix Suns,4.9,1.002,0.937,-0.065,-0.3,4.9,4.6,271,44%,0.5,4.6,5.1,357,26%,0.3,-0.4,-0.8,-12.5,27.5%,SF
+273,PF,Cheick Diallo,"Cheick Diallo,New Orleans Pelicans",",",30,Bigs-with-Touch,No,New Orleans Pelicans,3.5,1.061,1.087,0.025,0.1,3.7,3.8,164,66%,0.5,3.5,4.1,370,23%,0.2,-0.4,-0.4,-12.6,43.1%,PF
+256,SF,Tim Hardaway Jr.,"Tim Hardaway Jr.,New York Knicks",",",38,Secondary Creators,No,New York Knicks,17.2,0.963,0.943,-0.020,-0.3,16.5,16.2,277,42%,0.0,8.9,8.9,224,53%,7.7,7.3,-0.3,-12.7,46.7%,SF
+267,G,Tony Parker,"Tony Parker,San Antonio Spurs",",",32,Distributors,No,San Antonio Spurs,9.8,0.923,0.863,-0.060,-0.6,9.1,8.5,345,28%,-0.2,4.5,4.3,166,65%,4.5,4.2,-0.4,-12.8,44.4%,G
+369,PG,Isaiah Whitehead,"Isaiah Whitehead,Brooklyn Nets",",",15,Distributors,No,Brooklyn Nets,7.7,0.905,0.852,-0.053,-0.4,6.9,6.5,295,39%,0.5,4.8,5.4,360,25%,2.1,1.1,-0.9,-13.2,23.1%,PG
+240,PG,Jordan Clarkson,"Jordan Clarkson,Cleveland Cavaliers",",",55,Distributors,No,Cleveland Cavaliers,15.1,0.939,0.947,0.008,0.1,14.2,14.3,158,67%,0.4,3.7,3.8,331,31%,10.4,10.5,-0.2,-13.1,50.0%,PG
+268,SF,Marcus Georges-Hunt,"Marcus Georges-Hunt,Minnesota Timberwolves",",",33,Glue Guys,No,Minnesota Timberwolves,1.5,0.990,0.824,-0.166,-0.3,1.5,1.3,256,47%,0.1,2.2,2.3,274,43%,-0.6,-1.0,-0.4,-13.3,44.2%,SF
+241,PF,Carmelo Anthony,"Carmelo Anthony,Oklahoma City Thunder",",",56,Ball Stoppers,No,Oklahoma City Thunder,18.1,0.946,0.941,-0.005,-0.1,17.1,17.0,221,54%,0.1,9.4,9.0,273,43%,7.7,8.0,-0.2,-13.4,49.8%,PF
+359,PF,Jordan Mickey,"Jordan Mickey,Miami Heat",",",17,Bigs-with-Touch,No,Miami Heat,5.2,1.014,0.854,-0.160,-0.8,5.3,4.5,397,17%,0.0,5.2,6.0,213,56%,0.1,-1.5,-0.8,-13.9,25.2%,PF
+293,C,Richaun Holmes,"Richaun Holmes,Philadelphia 76ers",",",28,Bigs-with-Touch,No,Philadelphia 76ers,6.2,1.067,1.017,-0.049,-0.3,6.6,6.3,268,44%,0.2,5.8,5.7,286,40%,0.8,0.6,-0.5,-14.0,39.0%,C
+392,SF,Darrun Hilliard,"Darrun Hilliard,San Antonio Spurs",",",14,Stretch Bigs,No,San Antonio Spurs,1.9,0.962,0.615,-0.347,-0.6,1.8,1.1,352,27%,0.4,1.9,2.5,339,29%,-0.2,-1.4,-1.0,-14.3,18.3%,SF
+345,C,Nerlens Noel,"Nerlens Noel,Dallas Mavericks",",",19,Unskilled Bigs,No,Dallas Mavericks,3.9,1.035,0.919,-0.116,-0.5,4.0,3.6,309,36%,0.3,5.5,5.4,322,33%,-1.5,-1.8,-0.8,-14.6,28.1%,C
+253,PF,Jonas Jerebko,"Jonas Jerebko,Utah Jazz",",",50,Stretch Bigs,No,Utah Jazz,5.4,1.033,1.077,0.044,0.2,5.6,5.8,135,72%,0.5,5.9,6.3,373,22%,-0.3,-0.4,-0.3,-14.6,47.3%,PF
+285,C,Cristiano Felicio,"Cristiano Felicio,Chicago Bulls",",",31,Roll-and-Cut Bigs,No,Chicago Bulls,3.8,1.012,1.000,-0.012,0.0,3.9,3.8,205,57%,0.4,5.1,5.2,348,28%,-1.3,-1.4,-0.5,-14.7,40.6%,C
+317,C,Greg Monroe,"Greg Monroe,Phoenix Suns",",",25,Post-Up Bigs,No,Phoenix Suns,11.2,0.997,1.000,0.003,0.0,11.1,11.2,174,64%,0.6,1.0,0.8,394,18%,10.1,10.4,-0.6,-14.9,34.0%,C
+244,PG,Jerian Grant,"Jerian Grant,Chicago Bulls",",",57,Distributors,No,Chicago Bulls,9.0,0.897,0.934,0.037,0.3,8.1,8.4,116,76%,0.6,7.2,7.5,387,19%,0.9,0.9,-0.3,-14.9,49.2%,PG
+245,PF,Thaddeus Young,"Thaddeus Young,Indiana Pacers",",",58,Versatile Bigs,No,Indiana Pacers,12.4,1.020,0.970,-0.051,-0.6,12.7,12.1,348,28%,-0.4,11.4,11.2,122,75%,1.3,0.8,-0.3,-15.2,49.0%,PF
+404,PF,Darrell Arthur,"Darrell Arthur,Denver Nuggets",",",14,Pick and Pop Bigs,No,Denver Nuggets,4.1,0.989,0.842,-0.147,-0.6,4.0,3.4,347,28%,0.5,3.6,4.2,368,23%,0.5,-0.8,-1.1,-15.3,15.8%,PF
+463,PF,Jon Leuer,"Jon Leuer,Detroit Pistons",",",8,Bigs-with-Touch,No,Detroit Pistons,6.1,1.015,0.878,-0.138,-0.8,6.2,5.4,399,17%,1.1,6.2,8.5,454,5%,0.0,-3.1,-1.9,-15.4,3.5%,PF
+251,C,Andre Drummond,"Andre Drummond,Detroit Pistons",",",55,Unskilled Bigs,No,Detroit Pistons,16.1,1.003,0.929,-0.074,-1.2,16.2,15.0,443,8%,-0.9,12.0,12.2,50,90%,4.2,2.8,-0.3,-15.5,47.7%,C
+261,PG,Isaiah Taylor,"Isaiah Taylor,Atlanta Hawks",",",44,Distributors,No,Atlanta Hawks,5.6,0.945,0.822,-0.123,-0.7,5.3,4.6,366,24%,-0.3,4.9,4.5,131,73%,0.5,0.1,-0.4,-15.7,45.6%,PG
+332,C,Jason Smith,"Jason Smith,Washington Wizards",",",23,Pick and Pop Bigs,No,Washington Wizards,4.5,1.028,0.738,-0.291,-1.3,4.6,3.3,448,7%,-0.6,4.3,3.7,88,82%,0.3,-0.3,-0.7,-16.0,30.8%,C
+274,PF,Vince Carter,"Vince Carter,Sacramento Kings",",",38,Spot-Up Wings,No,Sacramento Kings,5.6,0.971,0.900,-0.071,-0.4,5.4,5.0,293,39%,0.0,4.9,5.2,248,48%,0.5,-0.2,-0.4,-16.3,42.9%,PF
+394,PG,Derrick Rose,"Derrick Rose,",",",16,Distributors,No,,11.3,0.964,0.872,-0.092,-1.0,10.8,9.8,427,11%,0.0,6.2,6.2,227,53%,4.7,3.6,-1.0,-16.5,17.9%,PG
+362,PG,Bobby Brown,"Bobby Brown,Houston Rockets",",",20,Distributors,No,Houston Rockets,3.5,0.887,0.725,-0.162,-0.6,3.1,2.5,336,30%,0.3,1.3,1.5,307,36%,1.8,1.0,-0.8,-16.7,24.6%,PG
+321,PG,Aaron Brooks,"Aaron Brooks,Minnesota Timberwolves",",",27,Rock Pounders,No,Minnesota Timberwolves,2.3,0.883,0.873,-0.010,0.0,2.1,2.0,199,59%,0.6,2.1,2.8,388,19%,-0.1,-0.7,-0.6,-16.9,33.1%,PG
+281,PG,John Wall,"John Wall,Washington Wizards",",",37,Creators,No,Washington Wizards,22.5,0.918,0.860,-0.059,-1.3,20.7,19.4,451,6%,-0.9,11.5,9.8,58,88%,9.2,9.6,-0.5,-17.1,41.5%,PG
+326,SF,Jake Layman,"Jake Layman,Portland Trail Blazers",",",26,Off-Ball Workers,No,Portland Trail Blazers,1.8,1.002,0.638,-0.364,-0.7,1.8,1.2,359,25%,0.0,1.3,1.2,236,51%,0.6,0.0,-0.7,-17.2,32.1%,SF
+346,SF,Quincy Pondexter,"Quincy Pondexter,Chicago Bulls",",",23,Spot-Up Wings,No,Chicago Bulls,2.9,0.988,0.672,-0.316,-0.9,2.9,2.0,410,15%,-0.1,2.6,2.6,180,63%,0.3,-0.6,-0.8,-17.8,27.9%,SF
+258,PG,Shaun Livingston,"Shaun Livingston,Golden State Warriors",",",51,Point Forwards,No,Golden State Warriors,5.7,1.007,0.907,-0.100,-0.6,5.7,5.1,340,29%,-0.2,5.1,5.1,160,67%,0.6,0.1,-0.4,-17.9,46.3%,PG
+480,SF,Markelle Fultz,"Markelle Fultz,Philadelphia 76ers",",",4,Reluctant Shooters,Yes,Philadelphia 76ers,9.8,1.035,0.615,-0.420,-4.1,10.1,6.0,480,0%,0.4,7.8,8.5,347,28%,2.3,-2.5,-4.5,-18.1,0.0%,SF
+300,PF,Marcus Morris,"Marcus Morris,Boston Celtics",",",35,Glue Guys,No,Boston Celtics,12.6,0.963,0.959,-0.003,0.0,12.2,12.1,202,58%,0.5,7.3,7.5,362,25%,4.9,4.6,-0.5,-18.3,37.5%,PF
+257,C,Kosta Koufos,"Kosta Koufos,Sacramento Kings",",",54,Roll-and-Cut Bigs,No,Sacramento Kings,6.2,1.056,0.985,-0.071,-0.4,6.5,6.1,305,36%,-0.1,7.3,7.4,196,59%,-0.8,-1.3,-0.4,-18.9,46.5%,C
+419,PF,Jonathan Isaac,"Jonathan Isaac,Orlando Magic",",",15,Reluctant Shooters,Yes,Orlando Magic,6.5,1.018,0.814,-0.204,-1.3,6.6,5.3,450,6%,-0.1,7.1,7.3,209,56%,-0.5,-2.1,-1.3,-18.9,12.7%,PF
+255,SG,Pat Connaughton,"Pat Connaughton,Portland Trail Blazers",",",58,Spot-Up Wings,No,Portland Trail Blazers,6.1,0.994,1.031,0.038,0.2,6.1,6.3,137,71%,0.6,6.2,6.4,374,22%,-0.2,-0.1,-0.3,-19.0,46.9%,SG
+303,PF,Johnny O'Bryant III,"Johnny O'Bryant III,New York Knicks",",",36,Versatile Bigs,No,New York Knicks,5.4,1.002,0.877,-0.125,-0.7,5.4,4.8,362,25%,-0.1,3.8,3.8,181,62%,1.6,0.9,-0.5,-19.2,36.9%,PF
+411,C,Georgios Papagiannis,"Georgios Papagiannis,Sacramento Kings",",",16,Post-Up Bigs,No,Sacramento Kings,3.2,0.968,0.725,-0.243,-0.8,3.1,2.3,389,19%,0.4,3.1,3.5,351,27%,0.0,-1.2,-1.2,-19.3,14.4%,C
+266,PF,Sam Dekker,"Sam Dekker,Los Angeles Clippers",",",51,Reluctant Shooters,No,Los Angeles Clippers,4.8,1.033,0.911,-0.123,-0.6,5.0,4.4,346,28%,-0.2,4.3,4.2,163,66%,0.7,0.2,-0.4,-19.8,44.6%,PF
+373,C,Henry Ellenson,"Henry Ellenson,Detroit Pistons",",",22,Pick and Pop Bigs,No,Detroit Pistons,3.5,1.001,0.711,-0.290,-1.0,3.5,2.5,422,12%,-0.1,2.6,2.6,190,60%,0.9,-0.1,-0.9,-19.8,22.3%,C
+262,SF,Dante Cunningham,"Dante Cunningham,Brooklyn Nets",",",54,Stretch Bigs,No,Brooklyn Nets,5.1,1.066,0.957,-0.109,-0.6,5.5,4.9,338,30%,-0.2,2.2,2.1,165,66%,3.3,2.8,-0.4,-19.8,45.4%,SF
+269,PG,Andrew Harrison,"Andrew Harrison,Memphis Grizzlies",",",48,Distributors,No,Memphis Grizzlies,9.5,0.905,0.912,0.008,0.1,8.6,8.7,167,65%,0.5,8.2,8.2,365,24%,0.4,0.5,-0.4,-19.9,44.0%,PG
+376,SF,Tony Allen,"Tony Allen,Chicago Bulls",",",22,Reluctant Shooters,No,Chicago Bulls,5.5,1.038,0.858,-0.180,-1.0,5.7,4.7,420,13%,-0.1,3.5,3.5,203,58%,2.2,1.2,-0.9,-19.9,21.7%,SF
+286,PF,T.J. Leaf,"T.J. Leaf,Indiana Pacers",",",42,Pick and Pop Bigs,No,Indiana Pacers,3.0,1.054,1.023,-0.030,-0.1,3.2,3.1,218,55%,0.4,3.4,3.5,341,29%,-0.1,-0.4,-0.5,-20.1,40.4%,PF
+308,SG,Austin Rivers,"Austin Rivers,Los Angeles Clippers",",",36,Creators,No,Los Angeles Clippers,16.4,0.914,0.944,0.030,0.5,15.0,15.5,98,80%,1.1,9.4,9.4,450,6%,5.7,6.1,-0.6,-20.2,35.8%,SG
+260,SG,Bryn Forbes,"Bryn Forbes,San Antonio Spurs",",",58,Spot-Up Wings,No,San Antonio Spurs,8.0,0.972,0.966,-0.007,-0.1,7.8,7.7,207,57%,0.3,6.0,5.7,317,34%,1.8,2.0,-0.4,-20.6,45.8%,SG
+276,SG,Tyler Johnson,"Tyler Johnson,Miami Heat",",",50,Secondary Creators,No,Miami Heat,11.8,0.954,0.956,0.002,0.0,11.3,11.3,175,64%,0.5,9.4,9.3,358,25%,1.9,2.0,-0.4,-21.6,42.5%,SG
+311,C,Miles Plumlee,"Miles Plumlee,Atlanta Hawks",",",38,Roll-and-Cut Bigs,No,Atlanta Hawks,4.8,1.043,0.907,-0.136,-0.7,5.0,4.4,358,25%,-0.1,7.5,7.1,198,59%,-2.5,-2.7,-0.6,-21.7,35.2%,C
+430,SG,Derrick Jones Jr.,"Derrick Jones Jr.,Miami Heat",",",16,Reluctant Shooters,No,Miami Heat,3.7,1.026,0.831,-0.195,-0.7,3.8,3.1,372,23%,0.6,2.3,3.1,396,18%,1.5,0.0,-1.4,-21.8,10.4%,SG
+430,SG,Derrick Jones Jr.,"Derrick Jones Jr.,Miami Heat",",",16,Reluctant Shooters,No,Miami Heat,3.7,1.026,0.831,-0.195,-0.7,3.8,3.1,372,23%,0.6,2.3,3.1,396,18%,1.5,0.0,-1.4,-21.8,10.4%,SG
+265,C,Robin Lopez,"Robin Lopez,Chicago Bulls",",",57,Parasitic Bigs,No,Chicago Bulls,12.9,1.022,0.957,-0.066,-0.8,13.2,12.4,400,17%,-0.5,12.6,12.5,110,77%,0.6,-0.1,-0.4,-21.9,44.8%,C
+280,SF,Trevor Booker,"Trevor Booker,Brooklyn Nets",",",48,Bigs-with-Touch,No,Brooklyn Nets,7.0,1.020,0.964,-0.056,-0.4,7.2,6.8,290,40%,0.1,3.5,3.9,260,46%,3.6,2.9,-0.5,-22.0,41.7%,SF
+288,SG,Malcolm Brogdon,"Malcolm Brogdon,Milwaukee Bucks",",",46,Secondary Creators,No,Milwaukee Bucks,12.8,0.980,1.027,0.047,0.6,12.5,13.1,86,82%,1.1,9.7,10.0,455,5%,2.9,3.1,-0.5,-22.1,40.0%,SG
+460,PG,Kobi Simmons,"Kobi Simmons,Memphis Grizzlies",",",12,Glue Guys,No,Memphis Grizzlies,4.7,0.933,0.821,-0.111,-0.5,4.4,3.8,327,32%,1.4,5.2,6.9,467,3%,-0.9,-3.1,-1.9,-22.7,4.2%,PG
+289,PF,Bobby Portis,"Bobby Portis,Chicago Bulls",",",48,Bigs-with-Touch,No,Chicago Bulls,12.5,1.010,0.993,-0.017,-0.2,12.7,12.5,240,50%,0.3,6.2,6.1,305,36%,6.5,6.4,-0.5,-23.2,39.8%,PF
+270,PF,Pascal Siakam,"Pascal Siakam,Toronto Raptors",",",56,Pick and Pop Bigs,No,Toronto Raptors,7.1,1.034,0.939,-0.095,-0.7,7.3,6.6,361,25%,-0.3,6.6,6.7,149,69%,0.7,-0.1,-0.4,-23.3,43.8%,PF
+275,SF,Bogdan Bogdanovic,"Bogdan Bogdanovic,Sacramento Kings",",",54,Secondary Creators,Yes,Sacramento Kings,11.6,0.930,0.976,0.046,0.5,10.7,11.3,92,81%,1.0,7.0,7.4,441,8%,3.8,3.9,-0.4,-23.3,42.7%,SF
+310,PF,Skal Labissière,"Skal Labissière,Sacramento Kings",",",42,Post-Up Bigs,No,Sacramento Kings,8.5,0.996,0.919,-0.077,-0.7,8.5,7.9,357,26%,-0.1,6.3,6.3,197,59%,2.2,1.6,-0.6,-23.9,35.4%,PF
+272,PG,Ish Smith,"Ish Smith,Detroit Pistons",",",57,Distributors,No,Detroit Pistons,11.9,0.935,0.902,-0.033,-0.4,11.1,10.7,288,40%,0.0,8.3,8.2,245,49%,2.8,2.5,-0.4,-23.9,43.3%,PG
+305,PG,Shelvin Mack,"Shelvin Mack,Orlando Magic",",",44,Distributors,No,Orlando Magic,6.3,0.930,0.871,-0.060,-0.4,5.9,5.5,284,41%,0.2,6.6,6.8,279,42%,-0.7,-1.3,-0.5,-23.9,36.5%,PG
+436,PF,Caleb Swanigan,"Caleb Swanigan,Portland Trail Blazers",",",17,Roll-and-Cut Bigs,Yes,Portland Trail Blazers,3.6,1.043,0.672,-0.370,-1.3,3.7,2.4,452,6%,0.1,3.0,3.3,264,45%,0.8,-0.9,-1.4,-23.9,9.2%,PF
+453,PG,Kay Felder,"Kay Felder,Chicago Bulls",",",14,Rock Pounders,No,Chicago Bulls,6.4,0.899,0.611,-0.287,-1.8,5.8,3.9,470,2%,-0.1,2.5,1.9,184,62%,3.3,2.1,-1.7,-24.0,5.6%,PG
+271,SG,Kent Bazemore,"Kent Bazemore,Atlanta Hawks",",",58,Secondary Creators,No,Atlanta Hawks,14.3,0.933,0.908,-0.024,-0.3,13.3,12.9,280,42%,0.1,8.8,9.8,259,46%,4.5,3.1,-0.4,-24.2,43.5%,SG
+344,PF,Jared Dudley,"Jared Dudley,Phoenix Suns",",",32,Stretch Bigs,No,Phoenix Suns,3.3,0.975,0.846,-0.129,-0.4,3.2,2.8,296,38%,0.3,3.9,4.1,329,31%,-0.7,-1.3,-0.8,-24.5,28.3%,PF
+341,PG,Reggie Jackson,"Reggie Jackson,Detroit Pistons",",",33,Rock Pounders,No,Detroit Pistons,15.9,0.897,0.911,0.014,0.2,14.3,14.5,139,71%,1.0,8.6,9.3,442,8%,5.7,5.2,-0.8,-24.8,29.0%,PG
+282,PF,Harrison Barnes,"Harrison Barnes,Dallas Mavericks",",",56,Ball Stoppers,No,Dallas Mavericks,18.3,0.956,0.982,0.026,0.5,17.5,18.0,100,79%,0.9,8.5,8.7,437,9%,9.0,9.3,-0.5,-26.3,41.3%,PF
+277,SG,Troy Daniels,"Troy Daniels,Phoenix Suns",",",59,Off-Ball Workers,No,Phoenix Suns,7.8,0.964,1.072,0.108,0.8,7.5,8.3,62,87%,1.3,6.1,6.2,462,4%,1.4,2.1,-0.4,-26.3,42.3%,SG
+384,PG,Milos Teodosic,"Milos Teodosic,Los Angeles Clippers",",",27,Distributors,Yes,Los Angeles Clippers,11.0,0.910,0.838,-0.072,-0.8,10.0,9.2,391,19%,0.2,7.9,8.3,285,41%,2.0,0.9,-1.0,-26.4,20.0%,PG
+461,C,Zhou Qi,"Zhou Qi,Houston Rockets",",",14,Stretch Bigs,Yes,Houston Rockets,2.4,1.010,0.500,-0.510,-1.2,2.5,1.2,445,7%,0.7,2.0,2.8,401,16%,0.4,-1.6,-1.9,-26.5,4.0%,C
+349,SF,Dwayne Bacon,"Dwayne Bacon,Charlotte Hornets",",",35,Spot-Up Wings,Yes,Charlotte Hornets,3.9,0.948,0.745,-0.203,-0.8,3.7,2.9,393,18%,0.0,4.7,4.7,218,55%,-1.0,-1.7,-0.8,-27.3,27.3%,SF
+301,PF,Michael Beasley,"Michael Beasley,New York Knicks",",",52,Ball Stoppers,No,New York Knicks,13.5,0.969,0.957,-0.012,-0.2,13.0,12.9,231,52%,0.4,5.7,5.8,333,31%,7.4,7.0,-0.5,-27.4,37.3%,PF
+296,SG,Alex Abrines,"Alex Abrines,Oklahoma City Thunder",",",53,Spot-Up Wings,No,Oklahoma City Thunder,4.8,0.984,1.012,0.028,0.1,4.7,4.8,153,68%,0.6,4.7,5.0,399,17%,-0.1,-0.2,-0.5,-27.3,38.3%,SG
+399,SF,Torrey Craig,"Torrey Craig,Denver Nuggets",",",26,Reluctant Shooters,No,Denver Nuggets,4.5,1.048,0.940,-0.108,-0.5,4.7,4.2,317,34%,0.6,6.3,6.8,380,21%,-1.5,-2.6,-1.1,-27.6,16.9%,SF
+307,PF,Mario Hezonja,"Mario Hezonja,Orlando Magic",",",50,Spot-Up Wings,No,Orlando Magic,8.7,0.992,1.000,0.008,0.1,8.6,8.7,170,65%,0.6,6.9,7.3,393,18%,1.7,1.4,-0.6,-27.8,36.0%,PF
+315,SF,Maurice Harkless,"Maurice Harkless,Portland Trail Blazers",",",47,Reluctant Shooters,No,Portland Trail Blazers,5.9,1.004,0.949,-0.055,-0.3,5.9,5.6,270,44%,0.3,6.4,6.6,304,37%,-0.5,-1.0,-0.6,-27.7,34.4%,SF
+434,SG,Wayne Selden,"Wayne Selden,Memphis Grizzlies",",",20,Secondary Creators,No,Memphis Grizzlies,9.7,0.951,0.856,-0.096,-0.9,9.2,8.3,413,14%,0.5,5.5,6.1,361,25%,3.7,2.2,-1.4,-28.0,9.6%,SG
+350,C,Tristan Thompson,"Tristan Thompson,Cleveland Cavaliers",",",36,Unskilled Bigs,No,Cleveland Cavaliers,5.6,1.075,1.089,0.014,0.1,6.1,6.1,166,65%,0.9,9.6,10.3,427,11%,-3.5,-4.2,-0.8,-28.1,27.1%,C
+397,C,Timofey Mozgov,"Timofey Mozgov,Brooklyn Nets",",",27,Bigs-with-Touch,No,Brooklyn Nets,4.6,1.030,0.904,-0.126,-0.6,4.8,4.2,344,28%,0.5,7.5,7.7,359,25%,-2.7,-3.5,-1.0,-28.3,17.3%,C
+291,SF,PJ Tucker,"PJ Tucker,Houston Rockets",",",57,Stretch Bigs,No,Houston Rockets,6.1,0.993,0.913,-0.080,-0.5,6.0,5.5,316,34%,0.0,8.5,8.8,237,51%,-2.5,-3.3,-0.5,-28.4,39.4%,SF
+294,SF,Denzel Valentine,"Denzel Valentine,Chicago Bulls",",",57,Secondary Creators,No,Chicago Bulls,10.5,0.949,0.928,-0.021,-0.2,10.0,9.8,246,49%,0.3,7.7,7.7,309,36%,2.3,2.0,-0.5,-28.6,38.8%,SF
+298,SF,TJ Warren,"TJ Warren,Phoenix Suns",",",56,Reluctant Shooters,No,Phoenix Suns,18.9,1.000,1.014,0.014,0.3,18.9,19.2,129,73%,0.8,8.1,8.1,419,13%,10.9,11.2,-0.5,-28.9,37.9%,SF
+302,C,Marc Gasol,"Marc Gasol,Memphis Grizzlies",",",55,Versatile Bigs,No,Memphis Grizzlies,19.5,0.977,0.887,-0.090,-1.8,19.0,17.3,467,3%,-1.2,13.6,12.6,32,93%,5.4,4.7,-0.5,-29.1,37.1%,C
+413,SF,Malachi Richardson,"Malachi Richardson,Sacramento Kings",",",25,Spot-Up Wings,No,Sacramento Kings,4.4,0.975,0.800,-0.175,-0.8,4.3,3.5,388,19%,0.5,3.4,3.8,355,26%,0.9,-0.3,-1.2,-30.5,14.0%,SF
+318,SF,Michael Kidd-Gilchrist,"Michael Kidd-Gilchrist,Charlotte Hornets",",",50,Reluctant Shooters,No,Charlotte Hornets,9.7,1.029,1.002,-0.027,-0.3,10.0,9.7,257,46%,0.4,10.4,11.2,332,31%,-0.4,-1.5,-0.6,-30.8,33.8%,SF
+388,SF,Shabazz Muhammad,"Shabazz Muhammad,Minnesota Timberwolves",",",31,Point Forwards,No,Minnesota Timberwolves,4.4,1.023,0.853,-0.170,-0.7,4.5,3.7,380,21%,0.3,2.1,2.0,298,38%,2.3,1.7,-1.0,-30.9,19.2%,SF
+316,SF,Josh Huestis,"Josh Huestis,Oklahoma City Thunder",",",53,Stretch Bigs,No,Oklahoma City Thunder,3.1,1.020,0.705,-0.315,-1.0,3.2,2.2,421,12%,-0.4,5.0,4.7,120,75%,-1.8,-2.5,-0.6,-31.6,34.2%,SF
+314,SG,Allen Crabbe,"Allen Crabbe,Brooklyn Nets",",",55,Off-Ball Workers,No,Brooklyn Nets,12.6,0.976,0.983,0.006,0.1,12.3,12.3,165,66%,0.7,7.8,7.7,403,16%,4.5,4.6,-0.6,-32.0,34.6%,SG
+462,G,Isaiah Thomas,"Isaiah Thomas,Los Angeles Lakers",",",17,Distributors,No,Los Angeles Lakers,16.8,0.910,0.853,-0.057,-1.0,15.3,14.4,419,13%,1.0,3.0,2.7,439,9%,12.3,11.6,-1.9,-32.6,3.8%,G
+389,SF,Joe Johnson,"Joe Johnson,Houston Rockets",",",33,Ball Stoppers,No,Houston Rockets,8.5,0.950,0.860,-0.089,-0.8,8.0,7.3,384,20%,0.2,2.1,2.1,296,38%,5.9,5.2,-1.0,-33.1,19.0%,SF
+372,C,Joffrey Lauvergne,"Joffrey Lauvergne,San Antonio Spurs",",",38,Roll-and-Cut Bigs,No,San Antonio Spurs,4.8,1.018,0.902,-0.116,-0.6,4.9,4.4,339,29%,0.3,4.5,4.8,323,33%,0.4,-0.4,-0.9,-33.5,22.5%,C
+333,SF,Malik Beasley,"Malik Beasley,Denver Nuggets",",",48,Spot-Up Wings,No,Denver Nuggets,3.7,1.008,0.860,-0.148,-0.6,3.7,3.2,331,31%,0.1,2.3,2.6,275,43%,1.4,0.6,-0.7,-33.6,30.6%,SF
+323,SG,Josh Hart,"Josh Hart,Los Angeles Lakers",",",51,Stretch Bigs,Yes,Los Angeles Lakers,5.9,1.006,1.063,0.057,0.3,5.9,6.3,115,76%,1.0,7.7,8.6,443,8%,-1.7,-2.3,-0.7,-33.7,32.7%,SG
+414,SF,Abdel Nader,"Abdel Nader,Boston Celtics",",",28,Spot-Up Wings,Yes,Boston Celtics,3.6,0.990,0.730,-0.260,-0.9,3.5,2.6,412,14%,0.3,3.1,3.2,313,35%,0.5,-0.6,-1.2,-34.2,13.8%,SF
+390,PG,Tyler Ennis,"Tyler Ennis,Los Angeles Lakers",",",34,Distributors,No,Los Angeles Lakers,4.2,0.936,0.746,-0.189,-0.8,3.9,3.1,392,18%,0.2,4.0,4.4,290,40%,-0.1,-1.3,-1.0,-34.4,18.8%,PG
+400,PG,Mike James,"Mike James,Phoenix Suns",",",32,Rock Pounders,Yes,Phoenix Suns,12.8,0.892,0.822,-0.071,-0.9,11.4,10.5,407,15%,0.2,7.3,7.2,280,42%,4.1,3.3,-1.1,-34.4,16.7%,PG
+358,SF,Justin Jackson,"Justin Jackson,Sacramento Kings",",",43,Spot-Up Wings,Yes,Sacramento Kings,6.5,1.010,0.932,-0.078,-0.5,6.6,6.1,324,33%,0.3,5.3,5.4,319,34%,1.3,0.7,-0.8,-34.8,25.4%,SF
+391,SG,Sean Kilpatrick,"Sean Kilpatrick,Milwaukee Bucks",",",35,Glue Guys,No,Milwaukee Bucks,5.5,0.967,0.833,-0.134,-0.7,5.3,4.6,377,21%,0.3,1.2,1.2,311,35%,4.1,3.4,-1.0,-35.6,18.5%,SG
+448,C,Jahlil Okafor,"Jahlil Okafor,Brooklyn Nets",",",22,Versatile Bigs,No,Brooklyn Nets,6.1,1.018,1.015,-0.004,0.0,6.2,6.2,198,59%,1.6,8.3,9.0,471,2%,-2.1,-2.8,-1.6,-35.6,6.7%,C
+324,SF,Evan Turner,"Evan Turner,Portland Trail Blazers",",",55,Secondary Creators,No,Portland Trail Blazers,9.4,0.928,0.874,-0.054,-0.5,8.7,8.2,326,32%,0.2,8.9,9.0,276,43%,-0.2,-0.8,-0.7,-36.3,32.5%,SF
+319,PG,Patty Mills,"Patty Mills,San Antonio Spurs",",",59,Secondary Creators,No,San Antonio Spurs,9.6,0.918,0.981,0.062,0.6,8.8,9.4,87,82%,1.2,4.7,5.3,459,4%,4.1,4.1,-0.6,-36.5,33.5%,PG
+387,PG,Matthew Dellavedova,"Matthew Dellavedova,Milwaukee Bucks",",",37,Distributors,No,Milwaukee Bucks,5.5,0.896,0.765,-0.132,-0.7,4.9,4.2,374,22%,0.3,6.0,5.7,302,37%,-1.1,-1.5,-1.0,-36.6,19.4%,PG
+368,SG,Terrance Ferguson,"Terrance Ferguson,Oklahoma City Thunder",",",43,Stretch Bigs,Yes,Oklahoma City Thunder,3.1,1.007,0.918,-0.089,-0.3,3.1,2.9,262,45%,0.6,4.4,4.7,384,20%,-1.2,-1.9,-0.9,-37.2,23.3%,SG
+328,SG,Will Barton,"Will Barton,Denver Nuggets",",",56,Distributors,No,Denver Nuggets,15.2,0.951,0.959,0.008,0.1,14.5,14.6,159,67%,0.8,8.4,8.5,418,13%,6.0,6.1,-0.7,-37.5,31.7%,SG
+423,PG,Frank Mason,"Frank Mason,Sacramento Kings",",",29,Distributors,Yes,Sacramento Kings,9.1,0.927,0.829,-0.098,-0.9,8.4,7.5,405,16%,0.4,5.1,5.0,342,29%,3.3,2.5,-1.3,-37.5,11.9%,PG
+336,SF,Brandon Ingram,"Brandon Ingram,Los Angeles Lakers",",",52,Creators,No,Los Angeles Lakers,17.8,0.945,0.905,-0.040,-0.7,16.8,16.1,371,23%,0.0,6.7,6.1,239,50%,10.1,10.0,-0.7,-37.7,30.0%,SF
+334,PF,Dario Saric,"Dario Saric,Philadelphia 76ers",",",54,Pick and Pop Bigs,No,Philadelphia 76ers,14.6,1.012,0.997,-0.015,-0.2,14.8,14.6,242,50%,0.5,9.8,9.9,363,24%,5.0,4.6,-0.7,-37.8,30.4%,PF
+338,PF,Maxi Kleber,"Maxi Kleber,Dallas Mavericks",",",52,Pick and Pop Bigs,Yes,Dallas Mavericks,5.2,1.061,1.030,-0.031,-0.2,5.5,5.3,232,52%,0.6,8.0,8.4,377,21%,-2.4,-3.0,-0.7,-38.1,29.6%,PF
+329,SF,Kelly Oubre Jr.,"Kelly Oubre Jr.,Washington Wizards",",",57,Spot-Up Wings,No,Washington Wizards,11.6,0.986,1.005,0.018,0.2,11.5,11.7,144,70%,0.9,8.4,8.8,429,11%,3.0,2.9,-0.7,-38.3,31.5%,SF
+327,SF,Doug McDermott,"Doug McDermott,Dallas Mavericks",",",58,Reluctant Shooters,No,Dallas Mavericks,7.0,1.031,1.027,-0.004,0.0,7.2,7.2,201,58%,0.6,2.2,2.1,395,18%,5.1,5.1,-0.7,-38.5,31.9%,SF
+375,SG,Arron Afflalo,"Arron Afflalo,Orlando Magic",",",43,Spot-Up Wings,No,Orlando Magic,3.7,0.976,0.861,-0.115,-0.4,3.6,3.2,297,38%,0.5,2.8,3.3,364,24%,0.7,-0.1,-0.9,-38.9,21.9%,SG
+356,PG,Dwyane Wade,"Dwyane Wade,Miami Heat",",",49,Point Forwards,No,Miami Heat,12.8,0.938,0.850,-0.088,-1.1,12.0,10.9,435,9%,-0.3,1.3,1.2,132,73%,10.7,9.7,-0.8,-39.2,25.8%,PG
+363,PG,Elfrid Payton,"Elfrid Payton,Phoenix Suns",",",47,Distributors,No,Phoenix Suns,14.5,0.944,0.931,-0.013,-0.2,13.7,13.5,236,51%,0.7,1.9,1.8,400,17%,11.8,11.7,-0.8,-39.4,24.4%,PG
+353,C,Mason Plumlee,"Mason Plumlee,Denver Nuggets",",",50,Roll-and-Cut Bigs,No,Denver Nuggets,8.1,1.020,0.909,-0.111,-0.9,8.3,7.4,406,15%,-0.1,9.3,9.3,189,61%,-1.0,-1.9,-0.8,-39.5,26.5%,C
+355,C,Jarrett Allen,"Jarrett Allen,Brooklyn Nets",",",50,Unskilled Bigs,Yes,Brooklyn Nets,7.0,1.073,1.080,0.006,0.0,7.6,7.6,172,64%,0.8,10.2,10.5,425,11%,-2.7,-2.9,-0.8,-39.7,26.0%,C
+364,SG,Kentavious Caldwell-Pope,"Kentavious Caldwell-Pope,Los Angeles Lakers",",",48,Off-Ball Workers,No,Los Angeles Lakers,13.1,0.993,0.968,-0.025,-0.3,13.0,12.7,274,43%,0.5,10.6,11.0,372,23%,2.4,1.6,-0.8,-40.3,24.2%,SG
+354,SF,Wilson Chandler,"Wilson Chandler,Denver Nuggets",",",51,Reluctant Shooters,No,Denver Nuggets,10.1,0.985,0.913,-0.072,-0.7,10.0,9.3,376,22%,0.1,7.9,7.9,256,47%,2.1,1.4,-0.8,-40.4,26.3%,SF
+382,PF,Justise Winslow,"Justise Winslow,Miami Heat",",",44,Reluctant Shooters,No,Miami Heat,7.8,0.974,0.788,-0.185,-1.5,7.6,6.2,459,4%,-0.5,8.1,8.0,105,78%,-0.5,-1.8,-1.0,-42.0,20.4%,PF
+429,PF,Kenneth Faried,"Kenneth Faried,Denver Nuggets",",",32,Unskilled Bigs,No,Denver Nuggets,6.1,1.038,0.949,-0.089,-0.5,6.4,5.8,329,31%,0.8,5.9,6.5,422,12%,0.5,-0.7,-1.4,-43.4,10.6%,PF
+352,SF,Dillon Brooks,"Dillon Brooks,Memphis Grizzlies",",",56,Glue Guys,Yes,Memphis Grizzlies,9.6,0.960,0.937,-0.023,-0.2,9.3,9.0,243,49%,0.6,9.6,10.2,375,22%,-0.3,-1.2,-0.8,-43.9,26.7%,SF
+374,SG,Norman Powell,"Norman Powell,Toronto Raptors",",",49,Glue Guys,No,Toronto Raptors,7.1,0.969,0.842,-0.127,-0.9,6.9,6.0,408,15%,0.0,5.1,4.8,226,53%,1.8,1.2,-0.9,-44.3,22.1%,SG
+351,SF,Wesley Matthews,"Wesley Matthews,Dallas Mavericks",",",57,Glue Guys,No,Dallas Mavericks,13.2,0.958,0.980,0.022,0.3,12.6,12.9,125,74%,1.1,9.6,9.9,453,6%,3.0,3.1,-0.8,-44.6,26.9%,SF
+426,SG,Ben McLemore,"Ben McLemore,Memphis Grizzlies",",",34,Spot-Up Wings,No,Memphis Grizzlies,7.1,0.991,0.867,-0.123,-0.9,7.0,6.1,403,16%,0.5,5.6,6.2,356,26%,1.4,-0.1,-1.3,-45.3,11.3%,SG
+367,SG,Marco Belinelli,"Marco Belinelli,Atlanta Hawks",",",53,Off-Ball Workers,No,Atlanta Hawks,11.2,0.962,1.007,0.045,0.5,10.8,11.3,97,80%,1.4,3.5,3.9,466,3%,7.3,7.3,-0.9,-45.5,23.5%,SG
+377,PG,Mario Chalmers,"Mario Chalmers,Memphis Grizzlies",",",50,Distributors,No,Memphis Grizzlies,9.6,0.916,0.795,-0.120,-1.2,8.8,7.6,439,9%,-0.2,6.5,6.3,152,68%,2.3,1.3,-0.9,-45.4,21.5%,PG
+360,SG,E'Twaun Moore,"E'Twaun Moore,New Orleans Pelicans",",",57,Spot-Up Wings,No,New Orleans Pelicans,11.7,1.005,1.069,0.064,0.7,11.8,12.5,70,85%,1.6,8.4,8.9,470,2%,3.4,3.6,-0.8,-46.6,25.0%,SG
+380,PF,Semi Ojeleye,"Semi Ojeleye,Boston Celtics",",",51,Stretch Bigs,Yes,Boston Celtics,3.0,1.021,0.806,-0.215,-0.7,3.1,2.5,355,26%,0.3,4.5,4.7,310,35%,-1.4,-2.3,-0.9,-47.6,20.8%,PF
+381,SF,Corey Brewer,"Corey Brewer,Los Angeles Lakers",",",52,Spot-Up Wings,No,Los Angeles Lakers,4.4,1.016,0.825,-0.191,-0.8,4.5,3.6,398,17%,0.1,4.4,4.3,270,44%,0.0,-0.7,-0.9,-49.2,20.6%,SF
+370,C,Gorgui Dieng,"Gorgui Dieng,Minnesota Timberwolves",",",57,Pick and Pop Bigs,No,Minnesota Timberwolves,6.7,1.018,0.961,-0.057,-0.4,6.8,6.4,287,40%,0.5,7.1,7.3,369,23%,-0.3,-0.9,-0.9,-50.2,22.9%,C
+379,C,Jusuf Nurkic,"Jusuf Nurkic,Portland Trail Blazers",",",55,Post-Up Bigs,No,Portland Trail Blazers,16.0,1.005,0.873,-0.132,-2.1,16.1,14.0,476,1%,-1.2,13.7,13.3,33,93%,2.4,0.7,-0.9,-50.5,21.0%,C
+435,PG,Lonzo Ball,"Lonzo Ball,Los Angeles Lakers",",",36,Distributors,Yes,Los Angeles Lakers,14.4,0.938,0.704,-0.234,-3.4,13.5,10.1,479,0%,-1.9,11.7,10.6,8,98%,1.8,-0.5,-1.4,-50.6,9.4%,PG
+383,PG,J.J. Barea,"J.J. Barea,Dallas Mavericks",",",53,Distributors,No,Dallas Mavericks,12.5,0.902,0.898,-0.004,-0.1,11.3,11.2,208,57%,0.9,6.9,7.4,433,10%,4.4,3.8,-1.0,-51.3,20.2%,PG
+467,PG,DAngelo Russell,"DAngelo Russell,Brooklyn Nets",",",25,Rock Pounders,No,Brooklyn Nets,18.8,0.905,0.830,-0.075,-1.4,17.0,15.6,456,5%,0.7,7.6,7.0,402,16%,9.4,8.6,-2.1,-51.8,2.7%,PG
+378,PG,Russell Westbrook,"Russell Westbrook,Oklahoma City Thunder",",",57,Creators,No,Oklahoma City Thunder,28.8,0.926,0.876,-0.051,-1.5,26.7,25.2,460,4%,-0.5,9.0,8.4,96,80%,17.7,16.8,-0.9,-52.0,21.3%,PG
+475,SF,DeAndre Bembry,"DeAndre Bembry,Atlanta Hawks",",",20,Glue Guys,No,Atlanta Hawks,7.1,0.947,0.674,-0.274,-1.9,6.7,4.8,471,2%,0.7,5.4,6.1,406,15%,1.3,-1.4,-2.6,-52.0,1.0%,SF
+401,PG,Jeff Teague,"Jeff Teague,Minnesota Timberwolves",",",49,Distributors,No,Minnesota Timberwolves,14.7,0.886,0.876,-0.010,-0.1,13.0,12.9,227,53%,0.9,10.7,11.1,436,9%,2.3,1.7,-1.1,-53.0,16.5%,PG
+415,PG,Tim Frazier,"Tim Frazier,Washington Wizards",",",43,Distributors,No,Washington Wizards,4.5,0.906,0.723,-0.182,-0.8,4.1,3.3,396,18%,0.4,5.3,5.7,346,28%,-1.1,-2.4,-1.3,-54.0,13.5%,PG
+442,SG,Malik Monk,"Malik Monk,Charlotte Hornets",",",36,Secondary Creators,Yes,Charlotte Hornets,6.8,0.929,0.820,-0.110,-0.7,6.3,5.6,379,21%,0.8,3.7,4.1,415,14%,2.6,1.5,-1.5,-53.8,7.9%,SG
+410,SG,Marcus Smart,"Marcus Smart,Boston Celtics",",",46,Secondary Creators,No,Boston Celtics,13.3,0.914,0.755,-0.159,-2.1,12.1,10.0,475,1%,-0.9,9.6,8.9,45,91%,2.5,1.1,-1.2,-54.2,14.6%,SG
+412,SF,Timothé Luwawu-Cabarrot,"Timothé Luwawu-Cabarrot,Philadelphia 76ers",",",46,Spot-Up Wings,No,Philadelphia 76ers,7.1,0.991,0.881,-0.110,-0.8,7.0,6.3,390,19%,0.4,5.2,5.4,349,27%,1.9,0.8,-1.2,-55.7,14.2%,SF
+409,PG,Patrick McCaw,"Patrick McCaw,Golden State Warriors",",",50,Glue Guys,No,Golden State Warriors,4.3,1.004,0.874,-0.129,-0.6,4.3,3.8,333,31%,0.6,4.7,4.7,383,20%,-0.4,-1.0,-1.1,-57.1,14.8%,PG
+395,SF,Jae Crowder,"Jae Crowder,Utah Jazz",",",56,Stretch Bigs,No,Utah Jazz,9.0,1.026,0.986,-0.040,-0.4,9.2,8.9,282,41%,0.7,6.2,6.2,408,15%,3.0,2.6,-1.0,-58.0,17.7%,SF
+427,SG,Devin Booker,"Devin Booker,Phoenix Suns",",",44,Secondary Creators,No,Phoenix Suns,24.7,0.932,0.957,0.025,0.6,23.0,23.7,85,82%,1.9,10.0,10.7,476,1%,13.0,13.0,-1.3,-58.8,11.0%,SG
+408,SG,Alec Burks,"Alec Burks,Utah Jazz",",",52,Secondary Creators,No,Utah Jazz,9.1,0.955,0.941,-0.014,-0.1,8.7,8.6,224,53%,1.0,3.7,4.5,447,7%,5.0,4.0,-1.1,-59.2,15.0%,SG
+403,SG,Buddy Hield,"Buddy Hield,Sacramento Kings",",",55,Secondary Creators,No,Sacramento Kings,12.6,0.967,0.967,0.000,0.0,12.2,12.2,191,60%,1.1,7.4,8.3,456,5%,4.8,3.9,-1.1,-59.9,16.0%,SG
+424,SF,Stanley Johnson,"Stanley Johnson,Detroit Pistons",",",46,Spot-Up Wings,No,Detroit Pistons,10.0,0.974,0.867,-0.107,-1.1,9.7,8.7,433,10%,0.2,8.4,9.0,292,39%,1.3,-0.3,-1.3,-59.9,11.7%,SF
+465,SG,Dion Waiters,"Dion Waiters,Miami Heat",",",30,Secondary Creators,No,Miami Heat,17.1,0.927,0.836,-0.091,-1.6,15.9,14.3,462,4%,0.4,8.7,9.0,354,26%,7.1,5.3,-2.0,-60.0,3.1%,SG
+406,PF,Jarell Martin,"Jarell Martin,Memphis Grizzlies",",",53,Reluctant Shooters,No,Memphis Grizzlies,7.3,1.029,0.888,-0.140,-1.0,7.5,6.5,425,11%,0.1,7.1,7.4,271,44%,0.4,-0.9,-1.1,-60.1,15.4%,PF
+396,PG,Cory Joseph,"Cory Joseph,Indiana Pacers",",",58,Distributors,No,Indiana Pacers,8.6,0.923,0.895,-0.028,-0.2,7.9,7.7,251,48%,0.8,9.5,9.9,421,12%,-1.7,-2.3,-1.0,-60.8,17.5%,PG
+407,PG,Ricky Rubio,"Ricky Rubio,Utah Jazz",",",54,Distributors,No,Utah Jazz,14.4,0.920,0.827,-0.093,-1.3,13.3,11.9,453,6%,-0.2,9.7,9.9,164,66%,3.6,2.0,-1.1,-61.4,15.2%,PG
+402,PG,Dejounte Murray,"Dejounte Murray,San Antonio Spurs",",",58,Distributors,No,San Antonio Spurs,9.1,0.959,0.779,-0.180,-1.6,8.7,7.1,463,4%,-0.6,7.1,7.4,93,81%,1.7,-0.3,-1.1,-63.0,16.3%,PG
+405,C,Thon Maker,"Thon Maker,Milwaukee Bucks",",",56,Pick and Pop Bigs,No,Milwaukee Bucks,5.6,1.030,0.895,-0.135,-0.8,5.8,5.0,385,20%,0.4,3.9,3.9,336,30%,1.8,1.1,-1.1,-63.1,15.6%,C
+416,SG,Malcom Delaney,"Malcom Delaney,Atlanta Hawks",",",51,Distributors,No,Atlanta Hawks,7.4,0.924,0.837,-0.087,-0.6,6.8,6.2,351,27%,0.6,5.9,6.1,390,19%,0.9,0.0,-1.3,-64.1,13.3%,SG
+444,C,Zach Collins,"Zach Collins,Portland Trail Blazers",",",42,Bigs-with-Touch,Yes,Portland Trail Blazers,5.2,0.982,0.761,-0.220,-1.1,5.1,4.0,437,9%,0.4,6.0,6.2,340,29%,-0.9,-2.3,-1.5,-64.1,7.5%,C
+418,PF,Marquese Chriss,"Marquese Chriss,Phoenix Suns",",",51,Pick and Pop Bigs,No,Phoenix Suns,8.4,0.987,0.816,-0.171,-1.4,8.3,6.9,458,5%,-0.2,7.6,7.7,171,64%,0.7,-0.9,-1.3,-64.3,12.9%,PF
+417,PF,Quincy Acy,"Quincy Acy,Brooklyn Nets",",",52,Pick and Pop Bigs,No,Brooklyn Nets,6.9,1.004,0.857,-0.147,-1.0,6.9,5.9,423,12%,0.2,7.6,8.2,297,38%,-0.7,-2.3,-1.3,-65.3,13.1%,PF
+445,PG,Rajon Rondo,"Rajon Rondo,New Orleans Pelicans",",",43,Distributors,No,New Orleans Pelicans,9.2,0.921,0.808,-0.113,-1.0,8.5,7.4,428,11%,0.5,7.1,7.1,367,24%,1.3,0.3,-1.5,-66.0,7.3%,PG
+441,PG,Michael Carter-Williams,"Michael Carter-Williams,Charlotte Hornets",",",45,Secondary Creators,No,Charlotte Hornets,5.8,0.926,0.721,-0.205,-1.2,5.4,4.2,441,8%,0.3,5.9,6.2,316,34%,-0.5,-2.0,-1.5,-67.1,8.1%,PG
+438,PG,Jameer Nelson,"Jameer Nelson,Detroit Pistons",",",46,Distributors,No,Detroit Pistons,6.5,0.911,0.805,-0.107,-0.7,5.9,5.2,364,24%,0.8,4.1,4.2,416,13%,1.7,1.0,-1.5,-67.3,8.8%,PG
+428,SG,Ian Clark,"Ian Clark,New Orleans Pelicans",",",51,Spot-Up Wings,No,New Orleans Pelicans,6.4,0.992,0.875,-0.117,-0.7,6.4,5.6,383,20%,0.6,4.8,4.7,385,20%,1.6,1.0,-1.3,-68.4,10.8%,SG
+421,PF,Kyle Kuzma,"Kyle Kuzma,Los Angeles Lakers",",",55,Pick and Pop Bigs,Yes,Los Angeles Lakers,16.1,1.014,0.971,-0.044,-0.7,16.3,15.6,370,23%,0.6,8.4,8.5,378,21%,8.0,7.1,-1.3,-70.0,12.3%,PF
+420,PG,Jamal Murray,"Jamal Murray,Denver Nuggets",",",56,Secondary Creators,No,Denver Nuggets,16.0,0.940,1.004,0.065,1.0,15.1,16.1,48,90%,2.3,6.9,8.6,480,0%,8.2,7.5,-1.3,-71.2,12.5%,PG
+459,PG,Jawun Evans,"Jawun Evans,Los Angeles Clippers",",",38,Glue Guys,No,Los Angeles Clippers,8.0,0.941,0.713,-0.228,-1.8,7.5,5.7,469,2%,0.1,6.5,6.6,257,46%,1.0,-0.9,-1.9,-71.4,4.4%,PG
+457,SG,Jerryd Bayless,"Jerryd Bayless,Philadelphia 76ers",",",40,Spot-Up Wings,No,Philadelphia 76ers,8.2,0.998,0.936,-0.062,-0.5,8.2,7.7,325,32%,1.3,7.8,8.6,464,3%,0.4,-0.9,-1.8,-71.9,4.8%,SG
+449,SG,Nicolas Batum,"Nicolas Batum,Charlotte Hornets",",",43,Secondary Creators,No,Charlotte Hornets,13.5,0.930,0.861,-0.069,-0.9,12.6,11.7,416,13%,0.7,7.6,8.2,411,14%,5.0,3.5,-1.7,-71.9,6.5%,SG
+422,C,Bismack Biyombo,"Bismack Biyombo,Orlando Magic",",",57,Unskilled Bigs,No,Orlando Magic,6.2,1.053,0.944,-0.109,-0.7,6.6,5.9,363,24%,0.6,8.8,8.9,389,19%,-2.2,-3.0,-1.3,-73.3,12.1%,C
+432,SG,Jonathon Simmons,"Jonathon Simmons,Orlando Magic",",",56,Distributors,No,Orlando Magic,14.6,0.941,0.941,0.000,0.0,13.7,13.7,193,60%,1.4,8.4,8.7,468,3%,5.3,5.0,-1.4,-77.1,10.0%,SG
+443,SG,Garrett Temple,"Garrett Temple,Sacramento Kings",",",53,Glue Guys,No,Sacramento Kings,9.3,0.967,0.897,-0.070,-0.7,9.0,8.4,356,26%,0.9,8.1,8.8,426,11%,0.9,-0.4,-1.5,-79.7,7.7%,SG
+439,SG,JR Smith,"JR Smith,Cleveland Cavaliers",",",55,Glue Guys,No,Cleveland Cavaliers,8.7,0.967,0.962,-0.005,0.0,8.4,8.3,203,58%,1.4,9.0,9.9,469,2%,-0.6,-1.5,-1.5,-80.4,8.5%,SG
+440,PG,Frank Ntilikina,"Frank Ntilikina,New York Knicks",",",56,Distributors,Yes,New York Knicks,7.9,0.884,0.662,-0.221,-1.7,7.0,5.2,465,3%,-0.3,6.3,5.8,143,70%,0.6,-0.5,-1.5,-82.2,8.3%,PG
+437,SG,Jamal Crawford,"Jamal Crawford,Minnesota Timberwolves",",",58,Creators,No,Minnesota Timberwolves,10.4,0.926,0.957,0.031,0.3,9.6,9.9,119,75%,1.8,3.8,4.3,475,1%,5.8,5.7,-1.4,-82.9,9.0%,SG
+471,PF,JaMychal Green,"JaMychal Green,Memphis Grizzlies",",",36,Reluctant Shooters,No,Memphis Grizzlies,10.6,1.035,0.935,-0.101,-1.1,11.0,9.9,432,10%,1.3,8.7,9.1,463,4%,2.3,0.8,-2.4,-84.7,1.9%,PF
+456,SF,Paul Zipser,"Paul Zipser,Chicago Bulls",",",48,Spot-Up Wings,No,Chicago Bulls,5.2,0.966,0.755,-0.211,-1.1,5.0,3.9,434,10%,0.7,5.5,6.0,409,15%,-0.5,-2.1,-1.8,-85.1,5.0%,SF
+469,PG,Kris Dunn,"Kris Dunn,Chicago Bulls",",",41,Rock Pounders,No,Chicago Bulls,16.9,0.904,0.797,-0.107,-1.8,15.3,13.5,468,3%,0.3,10.2,10.6,312,35%,5.1,2.9,-2.1,-86.0,2.3%,PG
+450,C,Willie Cauley-Stein,"Willie Cauley-Stein,Sacramento Kings",",",52,Versatile Bigs,No,Sacramento Kings,13.3,1.001,0.930,-0.070,-0.9,13.3,12.3,414,14%,0.7,11.3,11.8,412,14%,2.0,0.5,-1.7,-87.1,6.3%,C
+458,PF,Zach Randolph,"Zach Randolph,Sacramento Kings",",",49,Versatile Bigs,No,Sacramento Kings,15.6,0.952,0.941,-0.011,-0.2,14.8,14.6,234,51%,1.6,10.9,11.4,473,1%,3.9,3.2,-1.8,-88.5,4.6%,PF
+451,PF,Frank Kaminsky,"Frank Kaminsky,Charlotte Hornets",",",54,Pick and Pop Bigs,No,Charlotte Hornets,11.0,0.990,0.951,-0.039,-0.4,10.9,10.4,302,37%,1.3,8.1,9.1,460,4%,2.8,1.4,-1.7,-90.8,6.0%,PF
+468,PG,Emmanuel Mudiay,"Emmanuel Mudiay,New York Knicks",",",45,Distributors,No,New York Knicks,10.4,0.940,0.831,-0.109,-1.1,9.8,8.6,436,9%,1.0,0.9,0.8,438,9%,8.9,7.9,-2.1,-93.7,2.5%,PG
+466,SG,Avery Bradley,"Avery Bradley,Los Angeles Clippers",",",46,Off-Ball Workers,No,Los Angeles Clippers,16.5,0.967,0.863,-0.104,-1.7,16.0,14.2,464,3%,0.3,4.5,4.4,328,32%,11.5,9.8,-2.1,-94.9,2.9%,SG
+447,SF,Andrew Wiggins,"Andrew Wiggins,Minnesota Timberwolves",",",60,Secondary Creators,No,Minnesota Timberwolves,19.3,0.954,0.914,-0.040,-0.8,18.4,17.6,387,19%,0.8,11.3,11.4,424,12%,7.1,6.2,-1.6,-96.0,6.9%,SF
+455,PG,Dennis Schroder,"Dennis Schroder,Atlanta Hawks",",",55,Rock Pounders,No,Atlanta Hawks,21.4,0.889,0.899,0.010,0.2,19.0,19.3,145,70%,2.0,9.9,10.4,477,1%,9.2,8.8,-1.8,-96.9,5.2%,PG
+452,PF,Dragan Bender,"Dragan Bender,Phoenix Suns",",",59,Stretch Bigs,No,Phoenix Suns,7.0,0.994,0.880,-0.115,-0.8,7.0,6.2,394,18%,0.9,9.0,9.1,431,10%,-2.0,-2.9,-1.7,-101.0,5.8%,PF
+454,SF,Lance Stephenson,"Lance Stephenson,Indiana Pacers",",",58,Distributors,No,Indiana Pacers,10.8,0.930,0.861,-0.069,-0.7,10.0,9.3,381,21%,1.0,3.6,3.8,445,7%,6.4,5.5,-1.7,-101.4,5.4%,SF
+470,PG,Jarrett Jack,"Jarrett Jack,New York Knicks",",",57,Rock Pounders,No,New York Knicks,9.8,0.886,0.777,-0.109,-1.1,8.6,7.6,430,10%,1.0,8.6,9.7,448,7%,0.0,-2.1,-2.1,-119.7,2.1%,PG
+476,SF,Caris LeVert,"Caris LeVert,Brooklyn Nets",",",50,Distributors,No,Brooklyn Nets,13.5,0.936,0.861,-0.075,-1.0,12.6,11.6,424,12%,1.6,10.1,11.5,472,2%,2.6,0.2,-2.6,-131.2,0.8%,SF
+474,PG,Tyler Ulis,"Tyler Ulis,Phoenix Suns",",",56,Rock Pounders,No,Phoenix Suns,9.1,0.899,0.739,-0.160,-1.5,8.2,6.7,461,4%,1.0,7.2,8.0,446,7%,1.0,-1.3,-2.5,-137.8,1.3%,PG
+473,SF,Taurean Prince,"Taurean Prince,Atlanta Hawks",",",59,Glue Guys,No,Atlanta Hawks,13.5,0.976,0.897,-0.079,-1.1,13.2,12.1,431,10%,1.3,8.6,9.5,465,3%,4.6,2.7,-2.4,-140.4,1.5%,SF
+478,PG,De Aaron Fox,"De Aaron Fox,Sacramento Kings",",",50,Distributors,No,Sacramento Kings,14.2,0.931,0.791,-0.140,-2.0,13.2,11.2,473,1%,1.7,9.3,10.2,474,1%,3.9,1.0,-3.7,-185.9,0.4%,PG
+477,SF,Josh Jackson,"Josh Jackson,Phoenix Suns",",",57,Glue Guys,Yes,Phoenix Suns,13.6,0.983,0.818,-0.165,-2.2,13.4,11.1,477,1%,1.3,7.9,8.5,461,4%,5.5,2.6,-3.5,-200.7,0.6%,
+479,PG,Dennis Smith Jr.,"Dennis Smith Jr.,Dallas Mavericks",",",50,Creators,Yes,Dallas Mavericks,18.4,0.920,0.806,-0.114,-2.1,16.9,14.8,474,1%,2.0,9.8,11.0,478,0%,7.2,3.8,-4.1,-207.1,0.2%,PG
