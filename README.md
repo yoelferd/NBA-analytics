@@ -1,7 +1,9 @@
 # NBA-analytics
 Predicting MVP, among other things
 
-Run first_... first, second_... second, etc.
+Run "first_NBA_leaders_scrape_function.ipynb" first,
+Then run "second_player_stats_scrape.ipynb" second, ... and so on etc.
+Then "third_regressions_and_plots.ipynb" third.
 
 NBA Leaders Scrape: Builds CSV datasets of all NBA players that led in points, rebound, and/or assists during winning and losing games between 2000-2019, and counts the totals for each player for each season.
 
@@ -13,4 +15,6 @@ Player Similarity Tool is in R - it is used to search for the most similar seaso
 
 James Harden MVP 2018 Analysis is a notebook that dives in to the question of whether Harden "deserved" the award that year.
 
-Binary Classifier for NBA All Stars is in R and will be updated using the full stats from Player Stats Scrape.
+Binary Classifier for NBA All Stars is in R and can be updated using the full stats from Player Stats Scrape.
+
+The output folder contains the large datasets outputted from "second_player_stats_scrape". One file has data from 1987 onwards and the other has data from 1999-2000 season onwards (due to scraping limitations).
