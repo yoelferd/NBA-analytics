@@ -31,3 +31,5 @@ James Harden MVP 2018 Analysis is a notebook that dives in to the question of wh
 Binary Classifier for NBA All Stars is in R and can be updated using the full stats from Player Stats Scrape. This was an attempt to use logistic regression to predict all star assignments. The full dataset scraped (with 30+ years of NBA season stats) allows for a stronger predication, all it takes is to swap out the MVP as output and add in whichever NBA award or honor you want to predict (all star selection, all-nba, MIP, DPOY, etc).
 
 The output folder contains the large datasets outputted from "second_player_stats_scrape". One file has data from 1987 onwards and the other has data from 1999-2000 season onwards, including the leadership stats. These outputs are a useful deliverable on their own as it is not easy to get these clean datasets elsewhere.
+
+This was my Capstone Project at the Minerva Schools at KGI (www.minerva.kgi.edu). For the full academic paper, see bit.do/nba-capstone-yf
